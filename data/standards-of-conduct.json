@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "conduct-0",
+    "topic": "Participant responsibilities",
+    "page": "4",
+    "question": "Who must familiarize themselves with the Standards of Conduct?",
+    "answers": [
+      "All program participants",
+      "Only Professors",
+      "Only competitors",
+      "Only event organizers"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-2",
+    "topic": "Participant responsibilities",
+    "page": "4",
+    "question": "Do the standards apply to virtual interactions on Pokémon platforms?",
+    "answers": [
+      "Yes, to all such interactions with fellow participants",
+      "Only during official tournaments",
+      "Only to Judges",
+      "No, only physical events"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-3",
+    "topic": "Participant responsibilities",
+    "page": "4",
+    "question": "Can serious online misconduct outside the program be reviewed?",
+    "answers": [
+      "Yes, in rare cases",
+      "Never",
+      "Only if it occurs on Pokémon UNITE",
+      "Automatically in every case"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-5",
+    "topic": "Event Conduct",
+    "page": "4",
+    "question": "Who has final authority on acceptable behavior at an event?",
+    "answers": [
+      "Event staff",
+      "The most senior competitor",
+      "The venue owner alone",
+      "Spectators by vote"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-6",
+    "topic": "Event Conduct",
+    "page": "4",
+    "question": "Can removal from a venue occur without a refund?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only after a written warning",
+      "Only after a second offense"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-7",
+    "topic": "Event Conduct",
+    "page": "5",
+    "question": "How should a badge be worn?",
+    "answers": [
+      "Visibly, facing forward",
+      "Facing backward",
+      "Inside a pocket",
+      "Only during matches"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-8",
+    "topic": "Event Conduct",
+    "page": "5",
+    "question": "What should attendees do with emergency routes?",
+    "answers": [
+      "Keep them clear at all times",
+      "Use them for waiting",
+      "Reserve them for spectators",
+      "Block them during matches"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-9",
+    "topic": "Event Conduct",
+    "page": "5",
+    "question": "Whose instructions must attendees follow?",
+    "answers": [
+      "Event staff and security",
+      "Only their opponent's",
+      "Only the Head Judge's",
+      "Only instructions printed on a badge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-10",
+    "topic": "Event Conduct",
+    "page": "5",
+    "question": "What is the alcohol rule in local Play! Pokémon Store play areas?",
+    "answers": [
+      "Alcohol cannot be sold or used there",
+      "Alcohol can be sold but not used",
+      "Alcohol is allowed after a match",
+      "Alcohol is allowed for staff"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-11",
+    "topic": "Event Conduct",
+    "page": "5",
+    "question": "How is leaving minors unattended classified?",
+    "answers": [
+      "A severe infraction that can lead to immediate removal",
+      "A minor seating issue",
+      "Permitted between rounds",
+      "Only a concern at Worlds"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-12",
+    "topic": "Event Conduct",
+    "page": "5",
+    "question": "May an attendee follow or crowd someone without consent?",
+    "answers": [
+      "No",
+      "Yes, if they are a famous player",
+      "Yes, if no physical contact occurs",
+      "Yes, during breaks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-13",
+    "topic": "Event Conduct",
+    "page": "5",
+    "question": "May a Professor use their position to obtain improper privileges?",
+    "answers": [
+      "No",
+      "Yes, if unpaid",
+      "Yes, outside matches",
+      "Yes, with a visible badge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-14",
+    "topic": "Event Conduct",
+    "page": "5",
+    "question": "Is unauthorized buying or selling allowed?",
+    "answers": [
+      "No",
+      "Only between rounds",
+      "Only for Professors",
+      "Only in cash"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-15",
+    "topic": "Event Conduct",
+    "page": "5",
+    "question": "When may ongoing Tournament Zone matches be filmed?",
+    "answers": [
+      "When featured or authorized",
+      "Whenever a spectator wishes",
+      "When both players are winning",
+      "Always if no flash is used"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-16",
+    "topic": "Event Conduct",
+    "page": "5",
+    "question": "May you take a close-up photo of your own badge?",
+    "answers": [
+      "No",
+      "Yes, if it is yours",
+      "Yes, after round one",
+      "Only with a phone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-17",
+    "topic": "Event Conduct",
+    "page": "5",
+    "question": "When may event staff be filmed?",
+    "answers": [
+      "With their consent",
+      "Whenever they are on duty",
+      "Only after a ruling, regardless of consent",
+      "Always in public areas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-18",
+    "topic": "Event Conduct",
+    "page": "5",
+    "question": "How should special guests be approached?",
+    "answers": [
+      "At designated appearances or signing times, following security directions",
+      "Anywhere in the venue",
+      "Whenever they are not playing",
+      "Only in restricted areas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-19",
+    "topic": "Event Conduct",
+    "page": "6",
+    "question": "Does wearing cosplay imply consent to touch the costume?",
+    "answers": [
+      "No",
+      "Yes, if it is a public event",
+      "Yes, for photographs",
+      "Yes, for children"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-20",
+    "topic": "Event Conduct",
+    "page": "6",
+    "question": "What should you do if a cosplayer refuses a photo?",
+    "answers": [
+      "Respect the refusal",
+      "Ask repeatedly",
+      "Take the photo secretly",
+      "Ask a Judge to compel consent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-21",
+    "topic": "Event Conduct",
+    "page": "6",
+    "question": "Who should you notify when witnessing an event conduct violation?",
+    "answers": [
+      "Nearest staff member or security guard",
+      "Only the competitor involved",
+      "Social media followers",
+      "Nobody until the event ends"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-22",
+    "topic": "Event Conduct",
+    "page": "6",
+    "question": "What information is useful in an event incident report?",
+    "answers": [
+      "Incident details, people, last location and examples",
+      "Only the event name",
+      "Only your Player ID",
+      "Only the final result"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-23",
+    "topic": "Event Conduct",
+    "page": "6",
+    "question": "What should you do in an emergency?",
+    "answers": [
+      "Immediately call the local emergency number",
+      "Wait for the next round",
+      "Submit an ordinary appeal",
+      "Wait for a Professor to finish a match"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-24",
+    "topic": "Spirit of the Game",
+    "page": "6",
+    "question": "What are the four Spirit of the Game tenets?",
+    "answers": [
+      "Fun, fairness, respect, community",
+      "Honesty, integrity, responsibility, professionalism",
+      "Fun, honesty, winning, respect",
+      "Fairness, speed, skill, competition"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-25",
+    "topic": "Spirit of the Game",
+    "page": "6",
+    "question": "What should the Spirit of the Game guide?",
+    "answers": [
+      "Participant conduct and Professors' interpretation and enforcement",
+      "Only prize distribution",
+      "Only player rankings",
+      "Only online play"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-26",
+    "topic": "Spirit of the Game",
+    "page": "6",
+    "question": "Which behavior supports Fun?",
+    "answers": [
+      "Avoiding unnecessary delays and negative disruption",
+      "Delaying to frustrate an opponent",
+      "Prioritizing winning over everyone's experience",
+      "Ignoring the atmosphere"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-27",
+    "topic": "Spirit of the Game",
+    "page": "7",
+    "question": "What should a competitor do upon noticing a gameplay mistake?",
+    "answers": [
+      "Immediately inform the opponent or a Judge",
+      "Wait until the match ends",
+      "Only report if disadvantaged",
+      "Ignore it if accidental"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-28",
+    "topic": "Spirit of the Game",
+    "page": "7",
+    "question": "What should a player prefer under Fairness?",
+    "answers": [
+      "Losing rather than winning by cheating",
+      "Winning at any cost",
+      "Using rules solely for advantage",
+      "Letting spectators intervene"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-29",
+    "topic": "Spirit of the Game",
+    "page": "7",
+    "question": "May guardians give gameplay information to players in ongoing matches?",
+    "answers": [
+      "No",
+      "Yes, if the player is a Junior",
+      "Yes, if whispered",
+      "Yes, between turns"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-30",
+    "topic": "Spirit of the Game",
+    "page": "7",
+    "question": "How should goodwill at the start of a match be treated?",
+    "answers": [
+      "Reciprocate it",
+      "Ignore it",
+      "Only reciprocate after winning",
+      "Treat it as interference"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-31",
+    "topic": "Spirit of the Game",
+    "page": "7",
+    "question": "Should game results affect how you treat opponents?",
+    "answers": [
+      "No",
+      "Yes, after a loss",
+      "Yes, after a disputed ruling",
+      "Only in finals"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-32",
+    "topic": "Spirit of the Game",
+    "page": "7",
+    "question": "How should issues be escalated to Head Judges?",
+    "answers": [
+      "Follow staff directions and escalation protocols",
+      "By posting public criticism first",
+      "By ignoring the assigned Judge",
+      "By asking spectators to vote"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-33",
+    "topic": "Spirit of the Game",
+    "page": "7",
+    "question": "When is constructive gameplay advice encouraged?",
+    "answers": [
+      "After the match is complete",
+      "During the opponent's turn",
+      "During a live match from spectators",
+      "Only before registration"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-34",
+    "topic": "Spirit of the Game",
+    "page": "7",
+    "question": "How should new competitors be treated?",
+    "answers": [
+      "Welcomed and supported",
+      "Excluded until experienced",
+      "Only supported if winning",
+      "Discouraged from asking questions"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-35",
+    "topic": "Community Conduct",
+    "page": "8",
+    "question": "Does Play! Pokémon actively monitor external platforms?",
+    "answers": [
+      "No",
+      "Yes, all platforms continuously",
+      "Only private messages",
+      "Only every weekend"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-36",
+    "topic": "Community Conduct",
+    "page": "8",
+    "question": "When may external conduct complaints be assessed?",
+    "answers": [
+      "When conduct threatens program values or reasonable enjoyment",
+      "Never",
+      "Only if a match result changes",
+      "Only if reported by a Judge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-37",
+    "topic": "Community Conduct",
+    "page": "8",
+    "question": "What should witnesses of illegal activity in progress at an event do?",
+    "answers": [
+      "Contact relevant local authorities and report to Play! Pokémon",
+      "Only tell their opponent",
+      "Only post online",
+      "Wait until the next event"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-38",
+    "topic": "Community Conduct",
+    "page": "8",
+    "question": "Which is an example of illegal activity?",
+    "answers": [
+      "Distributing counterfeit products",
+      "Offering post-match tips",
+      "Appealing a ruling respectfully",
+      "Reporting a gameplay mistake"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-39",
+    "topic": "Community Conduct",
+    "page": "8",
+    "question": "Is impersonating a TPCi representative acceptable?",
+    "answers": [
+      "No",
+      "Yes, for gaining event access",
+      "Yes, if no payment is involved",
+      "Yes, for Professors"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-40",
+    "topic": "Community Conduct",
+    "page": "8",
+    "question": "Is promoting video game hacking prohibited?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only at in-person events",
+      "Only for paid software"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-41",
+    "topic": "Community Conduct",
+    "page": "9",
+    "question": "What is an example of harassment?",
+    "answers": [
+      "Repeated unwanted contact",
+      "Respectful private disagreement",
+      "Welcoming newcomers",
+      "Reporting misconduct truthfully"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-42",
+    "topic": "Community Conduct",
+    "page": "9",
+    "question": "Is disclosing another person's private information without explicit consent acceptable?",
+    "answers": [
+      "No",
+      "Yes, if it is in a group chat",
+      "Yes, if they lost a match",
+      "Yes, if the reporter is a Professor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-43",
+    "topic": "Community Conduct",
+    "page": "9",
+    "question": "What is exploitative trading?",
+    "answers": [
+      "Pressuring younger or inexperienced participants into favorable trades",
+      "Any exchange between adults",
+      "Trading after a match",
+      "Trading equal-value cards"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-44",
+    "topic": "Community Conduct",
+    "page": "9",
+    "question": "How should controversial topics and jokes be handled?",
+    "answers": [
+      "Use good judgment about context, time and place",
+      "All jokes are automatically acceptable",
+      "Only discuss them during matches",
+      "Ignore multicultural context"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-45",
+    "topic": "Community Conduct",
+    "page": "9",
+    "question": "Is the list of community violations exhaustive?",
+    "answers": [
+      "No, it may be updated at TPCi and program discretion",
+      "Yes, it is fixed forever",
+      "Yes, except at Worlds",
+      "Only for spectators"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-46",
+    "topic": "Professor Conduct",
+    "page": "9",
+    "question": "Are Professors held to higher conduct standards?",
+    "answers": [
+      "Yes, with potentially harsher consequences",
+      "No, identical consequences are mandatory",
+      "Only during judging",
+      "Only at international events"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-47",
+    "topic": "Professor Conduct",
+    "page": "10",
+    "question": "What are the Professor Core Values?",
+    "answers": [
+      "Honesty, integrity, responsibility, professionalism",
+      "Fun, fairness, respect, community",
+      "Honesty, speed, skill, respect",
+      "Integrity, fun, ranking, leadership"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-48",
+    "topic": "Professor Conduct",
+    "page": "10",
+    "question": "Which value is illustrated by truthful investigation information?",
+    "answers": [
+      "Honesty",
+      "Integrity",
+      "Responsibility",
+      "Professionalism"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-49",
+    "topic": "Professor Conduct",
+    "page": "10",
+    "question": "Which value includes following embargoes on League materials?",
+    "answers": [
+      "Honesty",
+      "Fun",
+      "Community",
+      "Respect"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-50",
+    "topic": "Professor Conduct",
+    "page": "10",
+    "question": "What should a Judge do about a conflict of interest?",
+    "answers": [
+      "Avoid judging if possible; otherwise remain impartial",
+      "Always rule in favor of friends",
+      "Ignore the conflict and personal feelings",
+      "Ask the players to decide all rulings"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-51",
+    "topic": "Professor Conduct",
+    "page": "10",
+    "question": "Which value explicitly calls for checking handbooks when uncertain?",
+    "answers": [
+      "Integrity",
+      "Honesty",
+      "Fun",
+      "Community"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-52",
+    "topic": "Professor Conduct",
+    "page": "10",
+    "question": "Which core value emphasizes accurate rulings and staying up to date?",
+    "answers": [
+      "Responsibility",
+      "Honesty",
+      "Community",
+      "Fun"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-53",
+    "topic": "Professor Conduct",
+    "page": "11",
+    "question": "Which value includes submitting accurate reports by required deadlines?",
+    "answers": [
+      "Responsibility",
+      "Honesty",
+      "Fun",
+      "Fairness"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-54",
+    "topic": "Professor Conduct",
+    "page": "11",
+    "question": "How should interpersonal disagreements between Professors be resolved?",
+    "answers": [
+      "Privately and respectfully",
+      "Through public arguments",
+      "By publishing private messages",
+      "By disrupting community events"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-55",
+    "topic": "Professor Conduct",
+    "page": "11",
+    "question": "What should a Professor do when using a real Judge ruling as a learning example?",
+    "answers": [
+      "Anonymize the ruling information as much as possible",
+      "Publish all names",
+      "Publicly criticize the Judge without consent",
+      "Reveal confidential records"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-56",
+    "topic": "Professor Conduct",
+    "page": "11",
+    "question": "Which value includes correct use of TPCi travel or lodging funds?",
+    "answers": [
+      "Professionalism",
+      "Fun",
+      "Community",
+      "Fairness"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-57",
+    "topic": "Professor Conduct",
+    "page": "11",
+    "question": "When can confidential Regional Championship dates be shared publicly?",
+    "answers": [
+      "After Play! Pokémon makes them public",
+      "As soon as a Professor learns them",
+      "When a friend asks",
+      "After a private staff meeting"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-58",
+    "topic": "Professor Conduct",
+    "page": "11",
+    "question": "Can venue interior photos be posted before International or World Championship doors open?",
+    "answers": [
+      "No, this is an example of a confidentiality breach",
+      "Yes, if no players appear",
+      "Yes, if the Professor is off duty",
+      "Yes, if posted in a public group"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-59",
+    "topic": "Professor Conduct",
+    "page": "11–12",
+    "question": "Do core values apply at Professor Cups and staff parties?",
+    "answers": [
+      "Yes, as does the Spirit of the Game",
+      "No, these are private celebrations",
+      "Only Honesty applies",
+      "Only during competitive matches"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-60",
+    "topic": "Parents & Guardians",
+    "page": "12",
+    "question": "What is the maximum age requiring an accompanying representative?",
+    "answers": [
+      "16 years inclusive",
+      "12 years inclusive",
+      "15 years inclusive",
+      "18 years inclusive"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-61",
+    "topic": "Parents & Guardians",
+    "page": "12",
+    "question": "What is the minimum age for guardians and chaperones?",
+    "answers": [
+      "18",
+      "16",
+      "21",
+      "12"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-62",
+    "topic": "Parents & Guardians",
+    "page": "12",
+    "question": "What proximity rule applies to children aged 12 and under?",
+    "answers": [
+      "They must remain with their representative",
+      "A representative may stay at home",
+      "A representative may leave the venue",
+      "No proximity requirement applies"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-63",
+    "topic": "Parents & Guardians",
+    "page": "12",
+    "question": "What proximity rule applies to children aged 13–16?",
+    "answers": [
+      "Representative must be present but need not stay close",
+      "Representative must always sit beside them",
+      "No representative is required",
+      "Representative must be tournament staff"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-64",
+    "topic": "Parents & Guardians",
+    "page": "12",
+    "question": "A parent competes while their 12-year-old also plays. What is required?",
+    "answers": [
+      "An additional representative for the child",
+      "Nothing if both play simultaneously",
+      "A Judge automatically becomes guardian",
+      "Only a signed permission slip"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-65",
+    "topic": "Parents & Guardians",
+    "page": "12",
+    "question": "Can staff simultaneously act as the responsible guardian of an on-site child?",
+    "answers": [
+      "No, another representative must attend if required",
+      "Yes, if the child is 13",
+      "Yes, if the staff member is a Professor",
+      "Yes, during breaks only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-67",
+    "topic": "Parents & Guardians",
+    "page": "12",
+    "question": "Who should a parent contact if a child is lost at a large event?",
+    "answers": [
+      "Tournament staff, who can contact security",
+      "Only other competitors",
+      "The appeals team",
+      "Nobody until the round ends"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-68",
+    "topic": "Parents & Guardians",
+    "page": "13",
+    "question": "May guardians block walkways if dedicated seating is unavailable?",
+    "answers": [
+      "No",
+      "Yes, temporarily",
+      "Yes, in Junior sections",
+      "Yes, if watching their child"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-69",
+    "topic": "Parents & Guardians",
+    "page": "13",
+    "question": "Who communicates a child's disqualification to the representative?",
+    "answers": [
+      "Judge staff",
+      "The opponent alone",
+      "The venue cleaner",
+      "Other parents"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-70",
+    "topic": "Parents & Guardians",
+    "page": "13",
+    "question": "To whom may a representative appeal a tournament decision?",
+    "answers": [
+      "Head Judge or Assistant Head Judge as outlined in rules",
+      "Any spectator",
+      "Only TPCi marketing",
+      "The opponent's parent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-71",
+    "topic": "Parents & Guardians",
+    "page": "13",
+    "question": "A removed guardian is replaced. When may the child reenter?",
+    "answers": [
+      "Once an eligible alternate is present",
+      "As soon as the alternate promises to come",
+      "Immediately without supervision",
+      "Only at the next event"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-72",
+    "topic": "Parents & Guardians",
+    "page": "13",
+    "question": "What happens if a child misses a round due to a lapse in representation?",
+    "answers": [
+      "Match Loss",
+      "Automatic win",
+      "Written warning only",
+      "No consequence"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-73",
+    "topic": "Parents & Guardians",
+    "page": "13",
+    "question": "What if the alternate arrives after the next round is paired?",
+    "answers": [
+      "Child is dropped but may enter as spectator with the alternate",
+      "Child receives a bye",
+      "Child continues without penalty",
+      "Child is permanently suspended"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-74",
+    "topic": "Parents & Guardians",
+    "page": "13–14",
+    "question": "Who also receives a disciplinary notice for a competitor under 16?",
+    "answers": [
+      "Parent listed in the child's Pokémon Trainer Central account",
+      "Every relative",
+      "Any spectator",
+      "Only the store owner"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-75",
+    "topic": "Parents & Guardians",
+    "page": "13–14",
+    "question": "How should parents help with a child's appeal?",
+    "answers": [
+      "Help the child craft their own response",
+      "Write it entirely without discussing the issue",
+      "Prevent the child from responding",
+      "Submit it anonymously"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-76",
+    "topic": "Disciplinary Action",
+    "page": "14",
+    "question": "Is participation in Play! Pokémon a right or a privilege?",
+    "answers": [
+      "A privilege",
+      "An unconditional right",
+      "A right for Professors only",
+      "A right after registration"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-77",
+    "topic": "Disciplinary Action",
+    "page": "14",
+    "question": "Who is the final arbiter of program eligibility refusal?",
+    "answers": [
+      "Play! Pokémon Rules Compliance Team",
+      "Any local Judge",
+      "The venue owner",
+      "The competitor's opponent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-78",
+    "topic": "Disciplinary Action",
+    "page": "14",
+    "question": "What is the minimum duration of disciplinary action except warnings?",
+    "answers": [
+      "30 days",
+      "7 days",
+      "14 days",
+      "90 days"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-79",
+    "topic": "Disciplinary Action",
+    "page": "14",
+    "question": "What is the maximum disciplinary duration?",
+    "answers": [
+      "There is no maximum",
+      "One year",
+      "Five years",
+      "90 days"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-80",
+    "topic": "Disciplinary Action",
+    "page": "14",
+    "question": "What duration does a written warning have?",
+    "answers": [
+      "No duration",
+      "30 days",
+      "7 days",
+      "One year"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-81",
+    "topic": "Disciplinary Action",
+    "page": "14",
+    "question": "What determines disciplinary action?",
+    "answers": [
+      "Severity and number of occurrences",
+      "Player ranking only",
+      "Age only",
+      "Event ticket price"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-82",
+    "topic": "Disciplinary Action",
+    "page": "14",
+    "question": "What does Professor Program suspension remove?",
+    "answers": [
+      "All associated roles, including sanctioning and running tournaments",
+      "Only access to Professor Cups",
+      "Only the ability to compete",
+      "Only travel awards"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-83",
+    "topic": "Disciplinary Action",
+    "page": "14",
+    "question": "Where can Professor eligibility be reviewed?",
+    "answers": [
+      "Play! Pokémon dashboard in Pokémon Trainer Central",
+      "Public social media",
+      "A deck list",
+      "Tournament seating chart"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-84",
+    "topic": "Disciplinary Action",
+    "page": "14–15",
+    "question": "Can an event invitation be withdrawn instead of disciplinary action?",
+    "answers": [
+      "Yes, in rare instances",
+      "Never",
+      "Always required first",
+      "Only for spectators"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-85",
+    "topic": "Disciplinary Action",
+    "page": "15",
+    "question": "Can someone suspended from Play! Pokémon attend as a spectator?",
+    "answers": [
+      "No, attendance in any capacity is prohibited",
+      "Yes, if not competing",
+      "Yes, with a Judge's permission",
+      "Yes, at local events"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-86",
+    "topic": "Disciplinary Action",
+    "page": "15",
+    "question": "Where can Organizers check participant eligibility?",
+    "answers": [
+      "Organizer Tools Dashboard in Pokémon Trainer Central",
+      "Professor Cups registration",
+      "A public ranking list",
+      "The opponent's account"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-87",
+    "topic": "Disciplinary Action",
+    "page": "15",
+    "question": "What may happen if a suspended person disrupts an event and refuses to leave?",
+    "answers": [
+      "Report the incident; suspension may be extended",
+      "Suspension automatically ends",
+      "They may compete as a guest",
+      "Only their opponent is penalized"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-88",
+    "topic": "Disciplinary Action",
+    "page": "15",
+    "question": "Can permanent Play! Pokémon suspension be appealed under this policy?",
+    "answers": [
+      "No",
+      "Yes, every 30 days",
+      "Yes, with two Judges",
+      "Yes, after one year"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-89",
+    "topic": "Disciplinary Action",
+    "page": "15",
+    "question": "Where is a disciplinary appeal submitted?",
+    "answers": [
+      "Play! Pokémon customer support",
+      "A public forum",
+      "Directly to an opponent",
+      "A tournament registration desk"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-90",
+    "topic": "Disciplinary Action",
+    "page": "15",
+    "question": "Does submitting an appeal lift a suspension immediately?",
+    "answers": [
+      "No, conditions remain in force",
+      "Yes, automatically",
+      "Yes, for spectators only",
+      "Yes, if submitted within 24 hours"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-91",
+    "topic": "Disciplinary Action",
+    "page": "15",
+    "question": "Which identifiers must an appeal include?",
+    "answers": [
+      "Player ID and case number",
+      "Only a name",
+      "Only a deck list",
+      "Only event date"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-92",
+    "topic": "Disciplinary Action",
+    "page": "15",
+    "question": "What additional item is needed for a Professor Program suspension appeal?",
+    "answers": [
+      "Character statement from an active Professor via their own ticket",
+      "A statement from any spectator",
+      "A tournament victory certificate",
+      "A new Professor exam result"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-93",
+    "topic": "Disciplinary Action",
+    "page": "15",
+    "question": "What must the supporting Professor's ticket include?",
+    "answers": [
+      "The appellant's Player ID and case number",
+      "Only the Professor's name",
+      "Only the venue address",
+      "Only the appeal date"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-94",
+    "topic": "Disciplinary Action",
+    "page": "16",
+    "question": "What is the maximum length of the main appeal body?",
+    "answers": [
+      "500 words",
+      "500 characters",
+      "1000 words",
+      "250 words"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-95",
+    "topic": "Disciplinary Action",
+    "page": "16",
+    "question": "Do supporting attachments count toward the appeal word limit?",
+    "answers": [
+      "No",
+      "Yes, always",
+      "Only screenshots count",
+      "Only statements count"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-96",
+    "topic": "Disciplinary Action",
+    "page": "16",
+    "question": "What does a denial message explain?",
+    "answers": [
+      "When another appeal is allowed, or that none is permitted",
+      "Automatic reinstatement",
+      "The reporter's identity",
+      "A guaranteed new hearing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-97",
+    "topic": "Disciplinary Action",
+    "page": "16",
+    "question": "Does Play! Pokémon disclose reporter identity or report contents to third parties?",
+    "answers": [
+      "No",
+      "Yes, to all Professors",
+      "Yes, to the public",
+      "Yes, automatically to the accused"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-98",
+    "topic": "Disciplinary Action",
+    "page": "16",
+    "question": "May suspended participants disclose their own suspension information?",
+    "answers": [
+      "Yes",
+      "Never",
+      "Only after a successful appeal",
+      "Only through a Judge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-99",
+    "topic": "Disciplinary Action",
+    "page": "16",
+    "question": "What happens to awards for events within a suspension period?",
+    "answers": [
+      "Invitations, Travel Awards and Travel Stipends are forfeited",
+      "All are retained automatically",
+      "Only invitations are lost",
+      "Only adults lose awards"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-100",
+    "topic": "Disciplinary Action",
+    "page": "16",
+    "question": "Does previously fulfilled travel support allow a suspended participant to attend?",
+    "answers": [
+      "No",
+      "Yes, if flights are booked",
+      "Yes, as a spectator",
+      "Yes, if the award was paid before suspension"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-101",
+    "topic": "Disciplinary Action",
+    "page": "16",
+    "question": "Who bears travel costs if an award is revoked due to suspension?",
+    "answers": [
+      "Play! Pokémon is not responsible for those costs",
+      "TPCi always reimburses everything",
+      "The opponent must pay",
+      "The Judge must pay"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "conduct-102",
+    "topic": "Disciplinary Action",
+    "page": "16",
+    "question": "Can misuse of Travel Awards result in removal from the program?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only a refund request is possible",
+      "Only if the participant is under 16"
+    ],
+    "correctIndex": 0
+  }
+]

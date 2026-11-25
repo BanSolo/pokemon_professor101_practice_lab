@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "1-102",
+    "topic": "Setup & victory",
+    "page": "7",
+    "question": "How many cards are in a normal deck?",
+    "answers": [
+      "60",
+      "40",
+      "50",
+      "70"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-103",
+    "topic": "Setup & victory",
+    "page": "7",
+    "question": "How many Prize cards are set aside in a normal game?",
+    "answers": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-104",
+    "topic": "Setup & victory",
+    "page": "7",
+    "question": "How many cards are drawn for the opening hand?",
+    "answers": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-105",
+    "topic": "Setup & victory",
+    "page": "7",
+    "question": "How many Pokémon can normally occupy your Bench?",
+    "answers": [
+      "5",
+      "4",
+      "6",
+      "7"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-106",
+    "topic": "Setup & victory",
+    "page": "7",
+    "question": "Can you inspect the order of your deck without a card effect permitting it?",
+    "answers": [
+      "No",
+      "Yes, before every turn",
+      "Yes, after shuffling",
+      "Yes, with your opponent's permission"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-107",
+    "topic": "Setup & victory",
+    "page": "8",
+    "question": "Who chooses which player goes first after the opening coin flip?",
+    "answers": [
+      "The winner of the flip",
+      "The loser of the flip",
+      "The player with fewer Basics",
+      "The Judge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-108",
+    "topic": "Setup & victory",
+    "page": "8",
+    "question": "Your opponent starts their turn with an empty deck. What happens?",
+    "answers": [
+      "You win",
+      "They lose a Prize card",
+      "They shuffle their discard pile",
+      "The game is a tie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-109",
+    "topic": "Setup & victory",
+    "page": "8",
+    "question": "What must you do if your opening hand contains no Basic Pokémon?",
+    "answers": [
+      "Reveal it, shuffle it into the deck and draw seven again",
+      "Discard it and draw six",
+      "Choose a Stage 1 as Active",
+      "Draw until you find a Basic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-110",
+    "topic": "Setup & victory",
+    "page": "8",
+    "question": "What happens when an opponent has no Pokémon left in play?",
+    "answers": [
+      "You win",
+      "They draw a new hand",
+      "They take a mulligan",
+      "You take only one Prize card"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-111",
+    "topic": "Turn actions & attacks",
+    "page": "9",
+    "question": "How many manual Energy attachments from hand are normally allowed per turn?",
+    "answers": [
+      "One",
+      "Two",
+      "Three",
+      "Unlimited"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-112",
+    "topic": "Turn actions & attacks",
+    "page": "9",
+    "question": "How many times may you normally retreat per turn?",
+    "answers": [
+      "Once",
+      "Twice",
+      "Once per Pokémon",
+      "Unlimited"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-113",
+    "topic": "Turn actions & attacks",
+    "page": "9",
+    "question": "How many Supporter cards may you normally play per turn?",
+    "answers": [
+      "One",
+      "Two",
+      "Three",
+      "Unlimited"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-114",
+    "topic": "Turn actions & attacks",
+    "page": "9",
+    "question": "What happens after attacking?",
+    "answers": [
+      "Your turn ends",
+      "You may still attach Energy",
+      "You may play another Supporter",
+      "You may retreat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-115",
+    "topic": "Turn actions & attacks",
+    "page": "11",
+    "question": "When a Pokémon evolves, what happens to its damage counters?",
+    "answers": [
+      "They remain",
+      "They are removed",
+      "They are halved",
+      "They move to the Bench"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-116",
+    "topic": "Turn actions & attacks",
+    "page": "11",
+    "question": "When a Pokémon evolves, what happens to its Special Conditions?",
+    "answers": [
+      "They are removed",
+      "They remain",
+      "Only Poison is removed",
+      "Only Sleep is removed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-117",
+    "topic": "Turn actions & attacks",
+    "page": "12",
+    "question": "Can you play a Stadium with the same name as the Stadium already in play?",
+    "answers": [
+      "No",
+      "Yes, once per game",
+      "Yes, if yours has different artwork",
+      "Yes, if it belongs to your opponent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-118",
+    "topic": "Turn actions & attacks",
+    "page": "12",
+    "question": "Which conditions prevent normal retreat?",
+    "answers": [
+      "Asleep and Paralyzed",
+      "Poisoned and Burned",
+      "Confused and Poisoned",
+      "Burned and Confused"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-119",
+    "topic": "Turn actions & attacks",
+    "page": "12",
+    "question": "Can you attack after retreating?",
+    "answers": [
+      "Yes, with the new Active Pokémon",
+      "No, retreat ends the turn",
+      "Only if retreat was free",
+      "Only if the opponent agrees"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-120",
+    "topic": "Turn actions & attacks",
+    "page": "12",
+    "question": "Can Abilities be used by Benched Pokémon if their text allows it?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only after an attack",
+      "Only on the first turn"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-121",
+    "topic": "Turn actions & attacks",
+    "page": "13",
+    "question": "Can the starting player attack on the first turn of the game?",
+    "answers": [
+      "No",
+      "Yes, with a zero-cost attack",
+      "Yes, with a Basic Pokémon",
+      "Yes, after playing a Stadium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-122",
+    "topic": "Turn actions & attacks",
+    "page": "14",
+    "question": "How much damage does one damage counter represent?",
+    "answers": [
+      "10",
+      "20",
+      "30",
+      "5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-123",
+    "topic": "Turn actions & attacks",
+    "page": "14",
+    "question": "Does Weakness or Resistance normally apply to Benched Pokémon?",
+    "answers": [
+      "No",
+      "Yes, both",
+      "Only Weakness",
+      "Only Resistance"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-124",
+    "topic": "Turn actions & attacks",
+    "page": "14",
+    "question": "When is a Pokémon Knocked Out by damage?",
+    "answers": [
+      "When its damage equals or exceeds its HP",
+      "Only when damage exceeds HP",
+      "When half its HP is lost",
+      "Only at the start of its owner's turn"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-125",
+    "topic": "Special Conditions & Checkup",
+    "page": "15",
+    "question": "When does Pokémon Checkup take place?",
+    "answers": [
+      "Between turns",
+      "At the start of every attack",
+      "Before drawing the opening hand",
+      "Only after a Knock Out"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-126",
+    "topic": "Special Conditions & Checkup",
+    "page": "15",
+    "question": "In what order are the four Checkup conditions processed?",
+    "answers": [
+      "Poisoned, Burned, Asleep, Paralyzed",
+      "Burned, Poisoned, Paralyzed, Asleep",
+      "Asleep, Poisoned, Burned, Paralyzed",
+      "Paralyzed, Asleep, Burned, Poisoned"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-127",
+    "topic": "Special Conditions & Checkup",
+    "page": "15",
+    "question": "Who determines the order of applicable Checkup effects?",
+    "answers": [
+      "The player whose turn is next",
+      "The player whose turn just ended",
+      "The owner of the Stadium",
+      "The player with more Prizes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-128",
+    "topic": "Special Conditions & Checkup",
+    "page": "15",
+    "question": "What happens on heads when checking an Asleep Pokémon?",
+    "answers": [
+      "It recovers",
+      "It stays Asleep",
+      "It becomes Confused",
+      "It takes two damage counters"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-129",
+    "topic": "Special Conditions & Checkup",
+    "page": "15",
+    "question": "How many damage counters are placed on a Burned Pokémon during Checkup?",
+    "answers": [
+      "Two",
+      "One",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-130",
+    "topic": "Special Conditions & Checkup",
+    "page": "16",
+    "question": "What happens on tails when a Confused Pokémon attempts to attack?",
+    "answers": [
+      "The attack fails and three damage counters are placed on it",
+      "The attack works at half damage",
+      "It becomes Asleep",
+      "The opponent takes three damage counters"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-131",
+    "topic": "Special Conditions & Checkup",
+    "page": "16",
+    "question": "When does a Paralyzed Pokémon recover naturally?",
+    "answers": [
+      "During Checkup after its owner's next turn",
+      "Immediately after the current attack",
+      "At the start of its owner's next turn",
+      "After two full turns"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-132",
+    "topic": "Special Conditions & Checkup",
+    "page": "16",
+    "question": "How many damage counters does ordinary Poison place during Checkup?",
+    "answers": [
+      "One",
+      "Two",
+      "Three",
+      "Zero"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-133",
+    "topic": "Special Conditions & Checkup",
+    "page": "15",
+    "question": "What happens to Special Conditions when the Active Pokémon moves to the Bench?",
+    "answers": [
+      "They are removed",
+      "They remain",
+      "Only Confusion is removed",
+      "Only Poison remains"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-134",
+    "topic": "Advanced rules & deck building",
+    "page": "22",
+    "question": "What is the usual maximum number of cards with the same name, excluding Basic Energy and special exceptions?",
+    "answers": [
+      "Four",
+      "Three",
+      "Five",
+      "Six"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-135",
+    "topic": "Advanced rules & deck building",
+    "page": "22",
+    "question": "What must a legal normal deck include?",
+    "answers": [
+      "At least one Basic Pokémon",
+      "At least one Stage 2 Pokémon",
+      "At least six Supporters",
+      "At least ten Energy cards"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-136",
+    "topic": "Advanced rules & deck building",
+    "page": "26",
+    "question": "How many ACE SPEC cards may a deck contain in total?",
+    "answers": [
+      "One",
+      "Four of each name",
+      "One of each subtype",
+      "Two"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-137",
+    "topic": "Advanced rules & deck building",
+    "page": "27",
+    "question": "How many Prize cards does a Pokémon ex normally give up when Knocked Out?",
+    "answers": [
+      "Two",
+      "One",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-138",
+    "topic": "Advanced rules & deck building",
+    "page": "24",
+    "question": "How many Prize cards does a Mega Evolution Pokémon ex give up when Knocked Out?",
+    "answers": [
+      "Three",
+      "Two",
+      "One",
+      "Four"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-139",
+    "topic": "Advanced rules & deck building",
+    "page": "29",
+    "question": "How many Radiant Pokémon cards may a deck contain?",
+    "answers": [
+      "One",
+      "Four",
+      "Two",
+      "One of each name"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-140",
+    "topic": "Advanced rules & deck building",
+    "page": "29",
+    "question": "How many VSTAR Powers may a player use per game?",
+    "answers": [
+      "One",
+      "One per Pokémon",
+      "One per turn",
+      "Unlimited"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-141",
+    "topic": "Advanced rules & deck building",
+    "page": "31",
+    "question": "How many Prize cards does Pokémon VMAX give up when Knocked Out?",
+    "answers": [
+      "Three",
+      "One",
+      "Two",
+      "Four"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-142",
+    "topic": "Advanced rules & deck building",
+    "page": "33",
+    "question": "How many Prize cards does a TAG TEAM Pokémon-GX give up when Knocked Out?",
+    "answers": [
+      "Three",
+      "Two",
+      "One",
+      "Four"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-143",
+    "topic": "Advanced rules & deck building",
+    "page": "35",
+    "question": "How many GX attacks may a player use in one game?",
+    "answers": [
+      "One",
+      "One per Pokémon-GX",
+      "One per turn",
+      "Unlimited"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-204",
+    "topic": "Advanced rules & deck building",
+    "page": "20",
+    "question": "Do damage-counter placement effects apply Weakness or Resistance?",
+    "answers": [
+      "No",
+      "Both apply",
+      "Only Weakness applies",
+      "Only Resistance applies"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-205",
+    "topic": "Advanced rules & deck building",
+    "page": "20",
+    "question": "When is Confusion checked during attack resolution?",
+    "answers": [
+      "Before making choices required by the attack",
+      "After placing damage counters",
+      "After all attack effects",
+      "During the next Checkup"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-206",
+    "topic": "Advanced rules & deck building",
+    "page": "21",
+    "question": "A Trainer effect says to draw five cards, but only three remain. What happens?",
+    "answers": [
+      "Draw the three remaining cards and continue",
+      "Immediately lose",
+      "Draw none",
+      "Shuffle the discard pile into the deck"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-207",
+    "topic": "Advanced rules & deck building",
+    "page": "21",
+    "question": "For an attack effect that says up to three, may you normally choose zero?",
+    "answers": [
+      "Yes",
+      "No, always exactly three",
+      "Only with no cards in hand",
+      "Only if the attack does zero damage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-208",
+    "topic": "Advanced rules & deck building",
+    "page": "21",
+    "question": "If an effect says any amount of Energy, can you choose zero?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only on the first turn",
+      "Only with Special Energy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-209",
+    "topic": "Advanced rules & deck building",
+    "page": "21",
+    "question": "If both players meet one win condition simultaneously, what is played?",
+    "answers": [
+      "A tiebreaker game",
+      "A new best-of-three match",
+      "A coin flip decides the winner",
+      "Neither player can win"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-210",
+    "topic": "Advanced rules & deck building",
+    "page": "21",
+    "question": "Is a Pokémon's printed Level part of its name for deck construction?",
+    "answers": [
+      "No",
+      "Yes",
+      "Only LV.X",
+      "Only Level 100"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-211",
+    "topic": "Advanced rules & deck building",
+    "page": "21",
+    "question": "Are Meowth and Alolan Meowth different names for deck construction?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only in Unlimited",
+      "Only if their HP differs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-212",
+    "topic": "Advanced rules & deck building",
+    "page": "23",
+    "question": "How must a Legendary Stadium be played?",
+    "answers": [
+      "Both different halves together",
+      "One half per turn",
+      "Any two identical halves",
+      "One half alone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-213",
+    "topic": "Advanced rules & deck building",
+    "page": "23",
+    "question": "How are Legendary Stadium halves treated while in the deck?",
+    "answers": [
+      "Separate cards",
+      "A single card",
+      "Basic Energy",
+      "A single Pokémon Tool"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-214",
+    "topic": "Advanced rules & deck building",
+    "page": "23",
+    "question": "How many total copies of the same Legendary Stadium name can a deck include?",
+    "answers": [
+      "Four halves total",
+      "Four of each half",
+      "Two halves total",
+      "Unlimited"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-215",
+    "topic": "Advanced rules & deck building",
+    "page": "24",
+    "question": "Can an effect that searches for Pokémon ex find a Mega Evolution Pokémon ex?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only if it is a Basic",
+      "Only in Expanded"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-216",
+    "topic": "Advanced rules & deck building",
+    "page": "25",
+    "question": "Can Iono's Bellibolt ex evolve from ordinary Tadbulb?",
+    "answers": [
+      "No",
+      "Yes",
+      "Only on the second turn",
+      "Only with a full Bench"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "1-217",
+    "topic": "Advanced rules & deck building",
+    "page": "27",
+    "question": "Are Pokémon ex and Pokémon-EX the same name for the four-copy rule?",
+    "answers": [
+      "No",
+      "Yes",
+      "Only if their artwork matches",
+      "Only when they are Basic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-371",
+    "topic": "Special Conditions & Checkup",
+    "page": "15–16",
+    "question": "Can a Benched Pokémon have a Special Condition?",
+    "answers": [
+      "No",
+      "Yes, only Poison",
+      "Yes, only Burn",
+      "Yes, any condition"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-372",
+    "topic": "Special Conditions & Checkup",
+    "page": "15–16",
+    "question": "Can a Pokémon be both Asleep and Paralyzed at once?",
+    "answers": [
+      "No, the newest rotation condition replaces the previous one",
+      "Yes, always",
+      "Only if Poisoned too",
+      "Only if evolved"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-373",
+    "topic": "Special Conditions & Checkup",
+    "page": "15–16",
+    "question": "Can Poison and Burn coexist?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only on the Bench",
+      "Only on Pokémon ex"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-374",
+    "topic": "Special Conditions & Checkup",
+    "page": "15–16",
+    "question": "What happens to Special Conditions when a Pokémon moves to the Bench?",
+    "answers": [
+      "All are removed",
+      "Only Poison is removed",
+      "Only Paralysis is removed",
+      "All remain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-375",
+    "topic": "Special Conditions & Checkup",
+    "page": "15–16",
+    "question": "Can an Asleep Pokémon attack?",
+    "answers": [
+      "No",
+      "Yes, after discarding Energy",
+      "Yes, with a coin flip before attacking",
+      "Yes, if it has free retreat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-376",
+    "topic": "Advanced rules & deck building",
+    "page": "20–22",
+    "question": "Does placing damage counters apply Weakness or Resistance?",
+    "answers": [
+      "No",
+      "Yes, both",
+      "Only Weakness",
+      "Only Resistance"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-377",
+    "topic": "Advanced rules & deck building",
+    "page": "20–22",
+    "question": "At what stage are effects on the attacking Pokémon applied in damage calculation?",
+    "answers": [
+      "Before Weakness and Resistance",
+      "After all defending effects",
+      "After placing counters",
+      "Only during Checkup"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-378",
+    "topic": "Advanced rules & deck building",
+    "page": "20–22",
+    "question": "If final attack damage is zero or negative, how many counters are placed?",
+    "answers": [
+      "Zero",
+      "One",
+      "Two",
+      "The attack's printed damage divided by ten"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-379",
+    "topic": "Advanced rules & deck building",
+    "page": "20–22",
+    "question": "An attack says to choose up to three cards. May you choose zero?",
+    "answers": [
+      "Yes, subject to the unrestricted search exception",
+      "No, never",
+      "Only if you have no deck",
+      "Only with opponent consent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-380",
+    "topic": "Advanced rules & deck building",
+    "page": "20–22",
+    "question": "A Trainer effect says to choose up to three cards. What is the ordinary minimum?",
+    "answers": [
+      "One",
+      "Zero",
+      "Two",
+      "Three"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-381",
+    "topic": "Advanced rules & deck building",
+    "page": "20–22",
+    "question": "A card says to discard any amount of Energy. Can you discard none?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only if no Energy is attached",
+      "Only on the first turn"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-382",
+    "topic": "Advanced rules & deck building",
+    "page": "20–22",
+    "question": "An effect makes you draw five cards but your deck has three. What happens?",
+    "answers": [
+      "Draw the three and continue",
+      "Immediately lose",
+      "Draw nothing",
+      "Shuffle the discard pile into the deck"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-383",
+    "topic": "Advanced rules & deck building",
+    "page": "20–22",
+    "question": "Both players take their final Prize simultaneously, but A also leaves B with no Pokémon. Who wins?",
+    "answers": [
+      "A, because A meets two win conditions",
+      "B",
+      "Neither, always a tiebreaker",
+      "The player who attacked loses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-384",
+    "topic": "Advanced rules & deck building",
+    "page": "20–22",
+    "question": "Do Gengar and Gengar LV.X count as the same name for deck building?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only in Standard",
+      "Only when their attacks match"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-385",
+    "topic": "Advanced rules & deck building",
+    "page": "20–22",
+    "question": "Does Delta Species notation change a Pokémon's name?",
+    "answers": [
+      "No",
+      "Yes",
+      "Only for evolution",
+      "Only for deck building"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-386",
+    "topic": "Advanced rules & deck building",
+    "page": "20–22",
+    "question": "Can Graveler evolve from Brock's Geodude?",
+    "answers": [
+      "No",
+      "Yes",
+      "Only with Basic Energy",
+      "Only on the Bench"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-387",
+    "topic": "Advanced rules & deck building",
+    "page": "20–22",
+    "question": "Can a normal 60-card deck have no Basic Pokémon?",
+    "answers": [
+      "No",
+      "Yes, with Evolution cards",
+      "Yes, with Fossils only",
+      "Yes, with four V-UNION pieces"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-388",
+    "topic": "Legendary Stadiums & Mega Evolution",
+    "page": "23–24",
+    "question": "Can two identical halves of a Legendary Stadium be played together?",
+    "answers": [
+      "No, both different halves are required",
+      "Yes",
+      "Only if played on different turns",
+      "Only if no Stadium is in play"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-389",
+    "topic": "Legendary Stadiums & Mega Evolution",
+    "page": "23–24",
+    "question": "How many cards does a complete Legendary Stadium count as in play?",
+    "answers": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-390",
+    "topic": "Legendary Stadiums & Mega Evolution",
+    "page": "23–24",
+    "question": "A search effect finds one Stadium in the deck. Can it take both Legendary Stadium halves?",
+    "answers": [
+      "No, each half is a separate card outside play",
+      "Yes",
+      "Only if they share the same name",
+      "Only if the player has no Stadium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-391",
+    "topic": "Legendary Stadiums & Mega Evolution",
+    "page": "23–24",
+    "question": "How many Prizes does a Knocked Out Mega Evolution Pokémon ex normally yield?",
+    "answers": [
+      "Three",
+      "One",
+      "Two",
+      "Four"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-392",
+    "topic": "Legendary Stadiums & Mega Evolution",
+    "page": "23–24",
+    "question": "Does playing a modern Mega Evolution Pokémon ex automatically end the turn?",
+    "answers": [
+      "No, normal Evolution rules apply",
+      "Yes, always",
+      "Only if it is Basic",
+      "Only if it has Energy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-393",
+    "topic": "Legendary Stadiums & Mega Evolution",
+    "page": "23–24",
+    "question": "What does Mega Lucario ex evolve from?",
+    "answers": [
+      "Riolu",
+      "Lucario",
+      "Lucario ex",
+      "Mega Kangaskhan ex"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-394",
+    "topic": "Special card mechanics",
+    "page": "26–29",
+    "question": "Can a deck include two different ACE SPEC cards?",
+    "answers": [
+      "No, only one total ACE SPEC",
+      "Yes, one of each",
+      "Yes, if one is Energy",
+      "Yes, if one is a Tool"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-395",
+    "topic": "Special card mechanics",
+    "page": "26–29",
+    "question": "How many Prizes does a Knocked Out ordinary Pokémon ex normally yield?",
+    "answers": [
+      "Two",
+      "One",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-396",
+    "topic": "Special card mechanics",
+    "page": "26–29",
+    "question": "Can four Miraidon and four Miraidon ex coexist in a deck under the name limit?",
+    "answers": [
+      "Yes, they have different names",
+      "No, four total",
+      "Only one ex is allowed",
+      "Only in Limited"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-397",
+    "topic": "Special card mechanics",
+    "page": "26–29",
+    "question": "Does Tera Pokémon ex protection prevent attack damage from your own Pokémon while Benched?",
+    "answers": [
+      "Yes, both players' attacks are covered",
+      "No, only opposing attacks",
+      "No, only Abilities",
+      "Only during Checkup"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-398",
+    "topic": "Special card mechanics",
+    "page": "26–29",
+    "question": "Can cards sent to the Lost Zone be recovered during that game?",
+    "answers": [
+      "No",
+      "Yes, like the discard pile",
+      "Yes, by retreating",
+      "Yes, after taking a Prize"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-399",
+    "topic": "Special card mechanics",
+    "page": "26–29",
+    "question": "Can a deck include two different Radiant Pokémon?",
+    "answers": [
+      "No, only one total",
+      "Yes, one of each",
+      "Yes, if both are Basic",
+      "Yes, if one is evolved"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-400",
+    "topic": "Special card mechanics",
+    "page": "26–29",
+    "question": "Are Radiant Pokémon considered Pokémon with a Rule Box?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only in the Active Spot",
+      "Only after attacking"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-401",
+    "topic": "Special card mechanics",
+    "page": "26–29",
+    "question": "Can Radiant Pokémon evolve normally?",
+    "answers": [
+      "No, they do not evolve from or into other cards",
+      "Yes, like ordinary Basics",
+      "Only into VSTAR",
+      "Only with Rare Candy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-402",
+    "topic": "Special card mechanics",
+    "page": "26–29",
+    "question": "How many VSTAR Powers may a player use in a game?",
+    "answers": [
+      "One total",
+      "One per Pokémon",
+      "One per turn",
+      "Two total"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-403",
+    "topic": "Special card mechanics",
+    "page": "26–29",
+    "question": "What should a player do with the VSTAR marker after using a VSTAR Power?",
+    "answers": [
+      "Flip it over",
+      "Discard it permanently",
+      "Give it to the opponent",
+      "Put it under the deck"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-404",
+    "topic": "Special card mechanics",
+    "page": "26–29",
+    "question": "Does an effect targeting Pokémon V also affect Pokémon VSTAR?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only before evolving",
+      "Only if it is Basic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-405",
+    "topic": "Special card mechanics",
+    "page": "30–33",
+    "question": "From which zone must the four V-UNION pieces be played?",
+    "answers": [
+      "Discard pile",
+      "Hand",
+      "Deck",
+      "Lost Zone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-406",
+    "topic": "Special card mechanics",
+    "page": "30–33",
+    "question": "How many Bench spaces does a completed V-UNION occupy?",
+    "answers": [
+      "One",
+      "Two",
+      "Four",
+      "Zero"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-407",
+    "topic": "Special card mechanics",
+    "page": "30–33",
+    "question": "Can a V-UNION be placed as a Basic during setup?",
+    "answers": [
+      "No",
+      "Yes, if all four pieces are in hand",
+      "Yes, if it has enough HP",
+      "Yes, if the opponent agrees"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-408",
+    "topic": "Special card mechanics",
+    "page": "30–33",
+    "question": "Can the same named V-UNION be played twice in one game?",
+    "answers": [
+      "No",
+      "Yes, once per turn",
+      "Yes, after it is Knocked Out",
+      "Yes, after reshuffling"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-409",
+    "topic": "Special card mechanics",
+    "page": "30–33",
+    "question": "Are individual V-UNION pieces treated as Rule Box Pokémon outside play?",
+    "answers": [
+      "No",
+      "Yes",
+      "Only in the discard pile",
+      "Only in the deck"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-410",
+    "topic": "Special card mechanics",
+    "page": "30–33",
+    "question": "Can a search for a Pokémon with Retreat Cost 3 find an individual V-UNION piece?",
+    "answers": [
+      "No, individual pieces have no referencable Retreat Cost",
+      "Yes, if the complete Pokémon has that cost",
+      "Yes, if it is Psychic",
+      "Yes, if the other pieces are in play"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-411",
+    "topic": "Special card mechanics",
+    "page": "30–33",
+    "question": "How many Prizes does a completed V-UNION normally yield when Knocked Out?",
+    "answers": [
+      "Three",
+      "One",
+      "Two",
+      "Four"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-412",
+    "topic": "Special card mechanics",
+    "page": "30–33",
+    "question": "Does an effect targeting unevolved Pokémon affect V-UNION?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only at setup",
+      "Only if it is a Basic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-413",
+    "topic": "Special card mechanics",
+    "page": "30–33",
+    "question": "How many Prizes does a Pokémon V normally yield?",
+    "answers": [
+      "Two",
+      "One",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-414",
+    "topic": "Special card mechanics",
+    "page": "30–33",
+    "question": "How many Prizes does a Pokémon VMAX normally yield?",
+    "answers": [
+      "Three",
+      "One",
+      "Two",
+      "Four"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-415",
+    "topic": "Special card mechanics",
+    "page": "30–33",
+    "question": "What does Lapras VMAX evolve from?",
+    "answers": [
+      "Lapras V",
+      "Lapras",
+      "Lapras ex",
+      "Any Water Pokémon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-416",
+    "topic": "Special card mechanics",
+    "page": "30–33",
+    "question": "Can Alolan Persian evolve from ordinary Meowth?",
+    "answers": [
+      "No",
+      "Yes",
+      "Only on turn two",
+      "Only with Rare Candy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-417",
+    "topic": "Special card mechanics",
+    "page": "30–33",
+    "question": "How many Prizes does a TAG TEAM Pokémon-GX normally yield?",
+    "answers": [
+      "Three",
+      "One",
+      "Two",
+      "Four"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-418",
+    "topic": "Special card mechanics",
+    "page": "30–33",
+    "question": "What can grant the additional effect of a TAG TEAM Supporter?",
+    "answers": [
+      "Discarding the extra cards specified by its text",
+      "Taking a Prize first",
+      "Using a VSTAR Power",
+      "Having no Benched Pokémon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-497",
+    "topic": "Damage calculation",
+    "page": "20",
+    "question": "An attack does 30 damage, an attacker effect adds 20 before Weakness, the defender has ×2 Weakness, and a defending effect reduces damage by 20 afterward. What is the final damage?",
+    "answers": [
+      "80",
+      "70",
+      "90",
+      "100"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-498",
+    "topic": "Damage calculation",
+    "page": "20",
+    "question": "An attack does 50 damage, an attacker effect adds 10 before Weakness, the defender has ×2 Weakness, and a defending effect reduces damage by 30 afterward. What is the final damage?",
+    "answers": [
+      "90",
+      "80",
+      "100",
+      "110"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-499",
+    "topic": "Damage calculation",
+    "page": "20",
+    "question": "An attack does 70 damage, an attacker effect adds 20 before Weakness, the defender has ×2 Weakness, and a defending effect reduces damage by 40 afterward. What is the final damage?",
+    "answers": [
+      "140",
+      "130",
+      "150",
+      "160"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-500",
+    "topic": "Damage calculation",
+    "page": "20",
+    "question": "An attack does 90 damage, an attacker effect adds 30 before Weakness, the defender has ×2 Weakness, and a defending effect reduces damage by 20 afterward. What is the final damage?",
+    "answers": [
+      "220",
+      "210",
+      "230",
+      "240"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-501",
+    "topic": "Damage calculation",
+    "page": "20",
+    "question": "An attack does 110 damage, an attacker effect adds 20 before Weakness, the defender has ×2 Weakness, and a defending effect reduces damage by 30 afterward. What is the final damage?",
+    "answers": [
+      "230",
+      "220",
+      "240",
+      "250"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-502",
+    "topic": "Damage calculation",
+    "page": "20",
+    "question": "An attack does 40 damage, an attacker effect adds 30 before Weakness, the defender has ×2 Weakness, and a defending effect reduces damage by 10 afterward. What is the final damage?",
+    "answers": [
+      "130",
+      "120",
+      "140",
+      "150"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-503",
+    "topic": "Damage calculation",
+    "page": "20",
+    "question": "An attack does 60 damage, an attacker effect adds 40 before Weakness, the defender has ×2 Weakness, and a defending effect reduces damage by 20 afterward. What is the final damage?",
+    "answers": [
+      "180",
+      "170",
+      "190",
+      "200"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-504",
+    "topic": "Damage calculation",
+    "page": "20",
+    "question": "An attack does 80 damage, an attacker effect adds 10 before Weakness, the defender has ×2 Weakness, and a defending effect reduces damage by 50 afterward. What is the final damage?",
+    "answers": [
+      "130",
+      "120",
+      "140",
+      "150"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-505",
+    "topic": "Damage calculation",
+    "page": "14, 20",
+    "question": "An attack deals 40 damage to an Active Pokémon with ×2 Weakness. With no other effects, how many damage counters are placed?",
+    "answers": [
+      "8",
+      "9",
+      "10",
+      "7"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-506",
+    "topic": "Damage calculation",
+    "page": "14, 20",
+    "question": "An attack deals 70 damage to an Active Pokémon with ×2 Weakness. With no other effects, how many damage counters are placed?",
+    "answers": [
+      "14",
+      "15",
+      "16",
+      "13"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-507",
+    "topic": "Damage calculation",
+    "page": "14, 20",
+    "question": "An attack deals 100 damage to an Active Pokémon with ×2 Weakness. With no other effects, how many damage counters are placed?",
+    "answers": [
+      "20",
+      "21",
+      "22",
+      "19"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-508",
+    "topic": "Damage calculation",
+    "page": "14, 20",
+    "question": "An attack deals 30 damage to an Active Pokémon with ×2 Weakness. With no other effects, how many damage counters are placed?",
+    "answers": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-509",
+    "topic": "Damage calculation",
+    "page": "14, 20",
+    "question": "An attack deals 80 damage to an Active Pokémon with −30 Resistance. With no other effects, how many damage counters are placed?",
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-510",
+    "topic": "Damage calculation",
+    "page": "14, 20",
+    "question": "An attack deals 60 damage to an Active Pokémon with −30 Resistance. With no other effects, how many damage counters are placed?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-511",
+    "topic": "Damage calculation",
+    "page": "14, 20",
+    "question": "An attack deals 100 damage to an Active Pokémon with −30 Resistance. With no other effects, how many damage counters are placed?",
+    "answers": [
+      "7",
+      "8",
+      "9",
+      "6"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-512",
+    "topic": "Damage calculation",
+    "page": "14, 20",
+    "question": "An attack deals 50 damage to an Active Pokémon with −30 Resistance. With no other effects, how many damage counters are placed?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correctIndex": 0
+  }
+]

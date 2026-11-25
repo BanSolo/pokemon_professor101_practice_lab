@@ -1,0 +1,2316 @@
+[
+  {
+    "id": "4-194",
+    "topic": "Eligibility & participation",
+    "page": "6",
+    "question": "What basic identification is needed to participate in Play! Pokémon tournaments?",
+    "answers": [
+      "Player ID",
+      "Professor certification",
+      "Passport in all cases",
+      "Championship invitation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-195",
+    "topic": "Eligibility & participation",
+    "page": "6",
+    "question": "Can a staff member compete in the same tournament they are staffing?",
+    "answers": [
+      "No",
+      "Yes, if they are a Scorekeeper",
+      "Yes, if they are a caster",
+      "Yes, with no prizes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-196",
+    "topic": "Eligibility & participation",
+    "page": "6",
+    "question": "What is the minimum age for Championship Series participation, subject to local requirements?",
+    "answers": [
+      "6 years",
+      "5 years",
+      "8 years",
+      "13 years"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-197",
+    "topic": "Eligibility & participation",
+    "page": "7",
+    "question": "How long after leaving a listed Pokémon company are former employees ineligible for Championship Series events?",
+    "answers": [
+      "60 days",
+      "30 days",
+      "90 days",
+      "One year"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-198",
+    "topic": "Eligibility & participation",
+    "page": "7",
+    "question": "Can the owner of the retail location compete in a Championship Series event held at that location?",
+    "answers": [
+      "No",
+      "Yes, if a Judge is present",
+      "Yes, if they waive prizes",
+      "Yes, if they do not organize it"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-199",
+    "topic": "Event expectations",
+    "page": "5",
+    "question": "What should you do if you witness a violation of tournament rules?",
+    "answers": [
+      "Report it to tournament staff",
+      "Wait until the tournament is over",
+      "Resolve it by changing scores yourself",
+      "Only discuss it with spectators"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-200",
+    "topic": "Event expectations",
+    "page": "10",
+    "question": "When may an Organizer publish a competitor's deck or team list, subject to the policy?",
+    "answers": [
+      "Once the event has begun",
+      "Only before registration",
+      "Only before the event starts",
+      "Never"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-201",
+    "topic": "Penalties & discipline",
+    "page": "44",
+    "question": "Which penalty is less severe than a Warning?",
+    "answers": [
+      "Caution",
+      "Game Loss",
+      "Match Loss",
+      "Disqualification"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-202",
+    "topic": "Penalties & discipline",
+    "page": "45",
+    "question": "Can repeated infractions affect the appropriate penalty?",
+    "answers": [
+      "Yes",
+      "No, only the infraction type matters",
+      "Only if the player is an adult",
+      "Only in the final round"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-203",
+    "topic": "Penalties & discipline",
+    "page": "46",
+    "question": "Can tournament misconduct lead to disciplinary action after the event?",
+    "answers": [
+      "Yes",
+      "No, all consequences end with the tournament",
+      "Only if no penalty was issued",
+      "Only for staff"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-232",
+    "topic": "Event expectations",
+    "page": "11",
+    "question": "Is wagering on the outcome of a match permitted?",
+    "answers": [
+      "No",
+      "Yes, if both players agree",
+      "Yes, for spectators",
+      "Yes, if the prize is small"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-233",
+    "topic": "Event expectations",
+    "page": "12",
+    "question": "May a person wear a Judge uniform while not actively on staff?",
+    "answers": [
+      "No",
+      "Yes, if certified",
+      "Yes, at every event",
+      "Only during a match"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-234",
+    "topic": "Event expectations",
+    "page": "12",
+    "question": "May a TCG competitor use a phone as a calculator during a match without staff permission?",
+    "answers": [
+      "No",
+      "Yes",
+      "Only during their own turn",
+      "Only if airplane mode is enabled"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-235",
+    "topic": "Event expectations",
+    "page": "13",
+    "question": "Where may a competitor keep a water bottle during normal play?",
+    "answers": [
+      "On the floor nearby",
+      "On top of their deck",
+      "In the Prize card area",
+      "On the play surface"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-236",
+    "topic": "Event expectations",
+    "page": "13",
+    "question": "Can a competitor use notes from a previous match during their current match?",
+    "answers": [
+      "No",
+      "Yes, if handwritten",
+      "Yes, if the opponent agrees",
+      "Only during Swiss"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-237",
+    "topic": "Event expectations",
+    "page": "13",
+    "question": "What should a competitor do if their displayed match record is wrong?",
+    "answers": [
+      "Report it immediately to appropriate staff",
+      "Wait until the final standings",
+      "Correct it privately on the pairing sheet",
+      "Ignore it"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-238",
+    "topic": "Event expectations",
+    "page": "10",
+    "question": "What must a removed participant do with their badge?",
+    "answers": [
+      "Surrender it to tournament staff",
+      "Keep it until the end of the event",
+      "Give it to their opponent",
+      "Destroy it"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-239",
+    "topic": "Tournament policies",
+    "page": "18",
+    "question": "Where must a Play! Pokémon League event take place?",
+    "answers": [
+      "Its approved League venue",
+      "Any venue chosen that morning",
+      "Only a convention center",
+      "Any competitor's home"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-240",
+    "topic": "Tournament policies",
+    "page": "19",
+    "question": "How far in advance must Championship Series events be sanctioned?",
+    "answers": [
+      "At least seven days",
+      "One day",
+      "Three days",
+      "Thirty days"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-241",
+    "topic": "Tournament policies",
+    "page": "20",
+    "question": "May a tournament be retroactively sanctioned after it has occurred?",
+    "answers": [
+      "No",
+      "Yes, within seven days",
+      "Yes, if all players agree",
+      "Yes, if it had a Head Judge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-242",
+    "topic": "Tournament policies",
+    "page": "21",
+    "question": "Must deck or team lists always be collected at Championship Series events?",
+    "answers": [
+      "Yes",
+      "No, only at Worlds",
+      "Only from finalists",
+      "Only if an infraction occurs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-243",
+    "topic": "Tournament policies",
+    "page": "22",
+    "question": "When may a player appeal a Judge's initial ruling?",
+    "answers": [
+      "After the complete initial ruling is given",
+      "Before the Judge finishes",
+      "Only after the event",
+      "Only after the match ends"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-244",
+    "topic": "Tournament policies",
+    "page": "23",
+    "question": "Within what time must an Organizer submit tournament results?",
+    "answers": [
+      "Seven days after conclusion",
+      "Fourteen days after conclusion",
+      "Thirty days after conclusion",
+      "Before round one"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-245",
+    "topic": "Tournament policies",
+    "page": "25",
+    "question": "How long is the standard personal break between streamed matches?",
+    "answers": [
+      "Five minutes",
+      "Two minutes",
+      "Ten minutes",
+      "Fifteen minutes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-246",
+    "topic": "Tournament policies",
+    "page": "27",
+    "question": "May an Organizer sell promotional materials provided for distribution?",
+    "answers": [
+      "No",
+      "Yes, after the tournament",
+      "Yes, at market price",
+      "Yes, if nobody claims them"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-247",
+    "topic": "Tournament operations & ranking",
+    "page": "29",
+    "question": "How many full rounds must competitors complete under sanctioned tournament requirements?",
+    "answers": [
+      "Three",
+      "One",
+      "Two",
+      "Five"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-248",
+    "topic": "Tournament operations & ranking",
+    "page": "31",
+    "question": "How many match points does a win award?",
+    "answers": [
+      "Three",
+      "One",
+      "Two",
+      "Four"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-249",
+    "topic": "Tournament operations & ranking",
+    "page": "31",
+    "question": "How many match points does a tie award?",
+    "answers": [
+      "One",
+      "Zero",
+      "Two",
+      "Three"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-250",
+    "topic": "Tournament operations & ranking",
+    "page": "31",
+    "question": "How many match points does a loss award?",
+    "answers": [
+      "Zero",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-251",
+    "topic": "Tournament operations & ranking",
+    "page": "31",
+    "question": "How many match points does a 4-win, 3-loss, 1-tie record earn?",
+    "answers": [
+      "13",
+      "12",
+      "15",
+      "10"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-252",
+    "topic": "Tournament operations & ranking",
+    "page": "32",
+    "question": "What are the lower and upper bounds for an opponent's win percentage calculation?",
+    "answers": [
+      "25% and 75%",
+      "0% and 100%",
+      "20% and 80%",
+      "33% and 67%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-253",
+    "topic": "Tournament operations & ranking",
+    "page": "32",
+    "question": "May competitors decide their match outcome before playing?",
+    "answers": [
+      "No",
+      "Yes, if no money is exchanged",
+      "Yes, in the final Swiss round",
+      "Yes, with an Organizer's consent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "4-254",
+    "topic": "Tournament operations & ranking",
+    "page": "36",
+    "question": "In double elimination, how many losses eliminate a competitor?",
+    "answers": [
+      "Two",
+      "One",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-440",
+    "topic": "Roles & responsibilities",
+    "page": "13–17",
+    "question": "What does a competitor become after voluntarily dropping from the main event?",
+    "answers": [
+      "A spectator",
+      "A Judge",
+      "A scorekeeper",
+      "An ineligible attendee"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-441",
+    "topic": "Roles & responsibilities",
+    "page": "13–17",
+    "question": "Does a voluntarily dropped competitor keep their competitor badge?",
+    "answers": [
+      "Yes",
+      "No, always surrendered",
+      "Only if undefeated",
+      "Only if staff approve a new badge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-442",
+    "topic": "Roles & responsibilities",
+    "page": "13–17",
+    "question": "Who is responsible for knowing the match format and table assignment procedure?",
+    "answers": [
+      "The competitor",
+      "Only the opponent",
+      "Only the scorekeeper",
+      "Only the venue owner"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-443",
+    "topic": "Roles & responsibilities",
+    "page": "13–17",
+    "question": "What must competitors bring to track damage and Special Conditions in TCG?",
+    "answers": [
+      "The necessary game implements",
+      "Only a Player ID",
+      "Only a deck box",
+      "Only a mobile phone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-444",
+    "topic": "Roles & responsibilities",
+    "page": "13–17",
+    "question": "May spectators discuss an ongoing match within earshot of its table?",
+    "answers": [
+      "No",
+      "Yes, quietly",
+      "Only if discussing strategy",
+      "Only during the opponent's turn"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-445",
+    "topic": "Roles & responsibilities",
+    "page": "13–17",
+    "question": "What happens if a child lacks a required accompanying spectator after the guardian's removal?",
+    "answers": [
+      "The child is dropped without penalty",
+      "The child receives automatic disqualification",
+      "The child receives a Warning",
+      "The child may continue unattended"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-446",
+    "topic": "Roles & responsibilities",
+    "page": "13–17",
+    "question": "Who is the Professor responsible for sanctioning the tournament?",
+    "answers": [
+      "The Organizer",
+      "The head spectator",
+      "The highest-ranked player",
+      "The scorekeeper alone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-447",
+    "topic": "Roles & responsibilities",
+    "page": "13–17",
+    "question": "When should the tournament format and type be announced?",
+    "answers": [
+      "Early enough for competitors to prepare before arrival",
+      "After round one",
+      "At the end of Swiss",
+      "Only on request after registration"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-448",
+    "topic": "Roles & responsibilities",
+    "page": "13–17",
+    "question": "Who is the final arbiter of tournament rulings?",
+    "answers": [
+      "Head Judge",
+      "Scorekeeper",
+      "Any spectator",
+      "Highest-ranked competitor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-449",
+    "topic": "Roles & responsibilities",
+    "page": "13–17",
+    "question": "If an event has only an Organizer and no other staff, who fulfills Head Judge responsibilities?",
+    "answers": [
+      "The Organizer",
+      "The first player to register",
+      "A spectator",
+      "No one"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-450",
+    "topic": "Roles & responsibilities",
+    "page": "13–17",
+    "question": "Who is responsible for generating pairings and accurately recording results?",
+    "answers": [
+      "Scorekeeper",
+      "Spectator",
+      "Vendor",
+      "Every player independently"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-451",
+    "topic": "Roles & responsibilities",
+    "page": "13–17",
+    "question": "Must the scorekeeper hold appropriate certification to operate tournament software?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only if also the Head Judge",
+      "Only for the final round"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-452",
+    "topic": "Roles & responsibilities",
+    "page": "13–17",
+    "question": "Who has final say on resolving scorekeeping issues in coordination with the scorekeeper?",
+    "answers": [
+      "Organizer",
+      "A random Judge",
+      "The affected competitor",
+      "Venue security"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-453",
+    "topic": "Roles & responsibilities",
+    "page": "13–17",
+    "question": "Who confirms the eligibility and appropriate certifications of event staff?",
+    "answers": [
+      "Organizer",
+      "Any competitor",
+      "Spectators collectively",
+      "The scorekeeper alone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-454",
+    "topic": "Roles & responsibilities",
+    "page": "13–17",
+    "question": "What may happen if ineligible competitors are allowed to play?",
+    "answers": [
+      "Tournament invalidation and potential disciplinary action",
+      "Nothing if they pay entry",
+      "Automatic extra Championship Points",
+      "A guaranteed refund to everyone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-455",
+    "topic": "Eligibility & participation",
+    "page": "6–7",
+    "question": "Can a player below the local minimum game age compete if they have a Player ID?",
+    "answers": [
+      "No",
+      "Yes",
+      "Only with a parent",
+      "Only in Championship Series"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-456",
+    "topic": "Eligibility & participation",
+    "page": "6–7",
+    "question": "Can a current GAME FREAK employee compete in a Championship Series event?",
+    "answers": [
+      "No",
+      "Yes, if off duty",
+      "Yes, with a different Player ID",
+      "Only at Regionals"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-457",
+    "topic": "Eligibility & participation",
+    "page": "6–7",
+    "question": "Can immediate family or household members of Pokémon Company employees compete in Championship Series events under this policy?",
+    "answers": [
+      "No",
+      "Yes, without restriction",
+      "Only if they use another surname",
+      "Only in top cut"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-478",
+    "topic": "Tournament integrity",
+    "page": "20–23",
+    "question": "What percentage of decks or teams is expected to receive legality checks at Championship Series events?",
+    "answers": [
+      "At least 10%",
+      "Exactly 5%",
+      "Only the top two",
+      "Exactly 100%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-479",
+    "topic": "Tournament integrity",
+    "page": "20–23",
+    "question": "Must the Organizer be present during the tournament?",
+    "answers": [
+      "Yes, unless an exceptional transfer is approved",
+      "No, any player can replace them",
+      "Only for the final round",
+      "Only at Worlds"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-480",
+    "topic": "Tournament integrity",
+    "page": "20–23",
+    "question": "Can the Organizer transfer responsibility to another Organizer without approval?",
+    "answers": [
+      "No, exceptional requests go through customer support",
+      "Yes, without notice",
+      "Yes, if a player agrees",
+      "Yes, after results are finalized"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-481",
+    "topic": "Tournament integrity",
+    "page": "20–23",
+    "question": "Can a competitor demand a particular Judge to hear an appeal?",
+    "answers": [
+      "No",
+      "Yes, if certified",
+      "Yes, if they know the Judge",
+      "Only in Swiss"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-482",
+    "topic": "Tournament integrity",
+    "page": "20–23",
+    "question": "Is an Assistant Head Judge's ruling following an appeal final on-site?",
+    "answers": [
+      "Yes",
+      "No, a floor Judge can reverse it",
+      "No, the opponent can veto it",
+      "Only for minor penalties"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-483",
+    "topic": "Tournament integrity",
+    "page": "20–23",
+    "question": "What can a player do after remaining dissatisfied with a final appeal ruling?",
+    "answers": [
+      "Contact customer support after the event",
+      "Demand unlimited on-site appeals",
+      "Change the match result themselves",
+      "Ask a spectator to overrule it"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-484",
+    "topic": "Tournament integrity",
+    "page": "20–23",
+    "question": "When should retained paper match records be destroyed?",
+    "answers": [
+      "Immediately after the tournament ends",
+      "Before the final round",
+      "After one year",
+      "Never"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-485",
+    "topic": "Tournament integrity",
+    "page": "20–23",
+    "question": "Who initials a paper match slip?",
+    "answers": [
+      "Both competitors",
+      "Only the winner",
+      "Only the Judge",
+      "Only the Organizer"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-486",
+    "topic": "Tournament integrity",
+    "page": "20–23",
+    "question": "Who normally turns in the paper match slip?",
+    "answers": [
+      "The winner",
+      "The loser only",
+      "A spectator",
+      "Both must separately submit a copy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-487",
+    "topic": "Tournament integrity",
+    "page": "20–23",
+    "question": "How many competitors must submit a digital match slip?",
+    "answers": [
+      "One",
+      "Both",
+      "Zero",
+      "Three"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-488",
+    "topic": "Tournament integrity",
+    "page": "20–23",
+    "question": "Who should resolve discrepancies in a submitted digital result?",
+    "answers": [
+      "Tournament staff",
+      "A spectator",
+      "The players by coin flip",
+      "The highest seed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-489",
+    "topic": "Tournament integrity",
+    "page": "20–23",
+    "question": "When should standings be posted in a Swiss-only tournament?",
+    "answers": [
+      "At the tournament's conclusion",
+      "Only before round one",
+      "Never",
+      "Only if someone appeals"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-490",
+    "topic": "Tournament integrity",
+    "page": "20–23",
+    "question": "What is a tournament with overdue results considered?",
+    "answers": [
+      "Delinquent",
+      "Automatically valid",
+      "A Friendly Tournament",
+      "A cancelled registration"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-491",
+    "topic": "Streamed matches",
+    "page": "23–24",
+    "question": "May a competitor voluntarily refuse an assigned streamed match?",
+    "answers": [
+      "No",
+      "Yes, without restriction",
+      "Only if they dislike the opponent",
+      "Only in Swiss"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-492",
+    "topic": "Streamed matches",
+    "page": "23–24",
+    "question": "May an Organizer exceptionally decide not to stream a match if streaming would seriously impair participation?",
+    "answers": [
+      "Yes, at their discretion",
+      "No, never",
+      "Only if all spectators vote",
+      "Only after the match"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-493",
+    "topic": "Streamed matches",
+    "page": "23–24",
+    "question": "Can an infraction be penalized after review of streamed match footage?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only if the player admits it",
+      "Only before round one"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-494",
+    "topic": "Streamed matches",
+    "page": "23–24",
+    "question": "Can unacceptable language on stream justify escalation?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only if the match is tied",
+      "Only for a spectator"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-495",
+    "topic": "Streamed matches",
+    "page": "23–24",
+    "question": "Are all featured matches necessarily streamed?",
+    "answers": [
+      "No",
+      "Yes",
+      "Only if a player records them",
+      "Only in game three"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-496",
+    "topic": "Streamed matches",
+    "page": "23–24",
+    "question": "May spectators film a featured match in its designated area?",
+    "answers": [
+      "Yes",
+      "No, never",
+      "Only after it ends",
+      "Only if they are Judges"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-521",
+    "topic": "Tournament operations & ranking",
+    "page": "31",
+    "question": "A competitor finishes with 3 wins, 1 losses and 2 ties. How many match points do they earn?",
+    "answers": [
+      "11",
+      "12",
+      "13",
+      "10"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-522",
+    "topic": "Tournament operations & ranking",
+    "page": "31",
+    "question": "A competitor finishes with 5 wins, 2 losses and 0 ties. How many match points do they earn?",
+    "answers": [
+      "15",
+      "16",
+      "17",
+      "14"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-523",
+    "topic": "Tournament operations & ranking",
+    "page": "31",
+    "question": "A competitor finishes with 2 wins, 2 losses and 3 ties. How many match points do they earn?",
+    "answers": [
+      "9",
+      "10",
+      "11",
+      "8"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-524",
+    "topic": "Tournament operations & ranking",
+    "page": "31",
+    "question": "A competitor finishes with 6 wins, 1 losses and 1 ties. How many match points do they earn?",
+    "answers": [
+      "19",
+      "20",
+      "21",
+      "18"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-525",
+    "topic": "Tournament operations & ranking",
+    "page": "31",
+    "question": "A competitor finishes with 1 wins, 4 losses and 2 ties. How many match points do they earn?",
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-526",
+    "topic": "Tournament operations & ranking",
+    "page": "31",
+    "question": "A competitor finishes with 7 wins, 0 losses and 2 ties. How many match points do they earn?",
+    "answers": [
+      "23",
+      "24",
+      "25",
+      "22"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-527",
+    "topic": "Tournament operations & ranking",
+    "page": "31",
+    "question": "A competitor finishes with 2 wins, 0 losses and 1 ties. How many match points do they earn?",
+    "answers": [
+      "7",
+      "8",
+      "9",
+      "6"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-528",
+    "topic": "Tournament operations & ranking",
+    "page": "31",
+    "question": "A competitor finishes with 4 wins, 2 losses and 2 ties. How many match points do they earn?",
+    "answers": [
+      "14",
+      "15",
+      "16",
+      "13"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-529",
+    "topic": "Tournament operations & ranking",
+    "page": "31",
+    "question": "A competitor finishes with 0 wins, 3 losses and 3 ties. How many match points do they earn?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-530",
+    "topic": "Tournament operations & ranking",
+    "page": "31",
+    "question": "A competitor finishes with 5 wins, 0 losses and 3 ties. How many match points do they earn?",
+    "answers": [
+      "18",
+      "19",
+      "20",
+      "17"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-531",
+    "topic": "Tournament operations & ranking",
+    "page": "31",
+    "question": "A competitor finishes with 3 wins, 3 losses and 1 ties. How many match points do they earn?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-532",
+    "topic": "Tournament operations & ranking",
+    "page": "31",
+    "question": "A competitor finishes with 8 wins, 1 losses and 0 ties. How many match points do they earn?",
+    "answers": [
+      "24",
+      "25",
+      "26",
+      "23"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-615",
+    "topic": "Sanctioning & venues",
+    "page": "18",
+    "question": "May a non-League tournament be held in a public library if venue requirements are met?",
+    "answers": [
+      "Yes",
+      "No, only game stores are allowed",
+      "Only if it is a private event",
+      "Only if it awards no prizes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-616",
+    "topic": "Sanctioning & venues",
+    "page": "18",
+    "question": "How may a League request a larger venue for a League Cup?",
+    "answers": [
+      "Submit an alternate venue request",
+      "Move without notifying anyone",
+      "Retroactively sanction the event",
+      "Ask competitors to vote"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-617",
+    "topic": "Sanctioning & venues",
+    "page": "18",
+    "question": "What accessibility requirement applies to an alternate tournament venue?",
+    "answers": [
+      "It must be open to the public throughout the tournament",
+      "It must be members-only",
+      "It must exclude spectators",
+      "It may close during the event"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-618",
+    "topic": "Sanctioning & venues",
+    "page": "18",
+    "question": "May an Organizer independently use a convention as an alternate venue under the ordinary venue rules?",
+    "answers": [
+      "No",
+      "Yes, automatically",
+      "Yes, if entry is free",
+      "Yes, if at least four players attend"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-619",
+    "topic": "Sanctioning & venues",
+    "page": "18",
+    "question": "What is meant by sanctioning a tournament?",
+    "answers": [
+      "Creating it in Play! Tools",
+      "Advertising it on social media",
+      "Collecting entry fees",
+      "Printing match slips"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-620",
+    "topic": "Sanctioning & venues",
+    "page": "19",
+    "question": "Can a large Championship event managed with authorized third-party software still be sanctioned?",
+    "answers": [
+      "Yes, the same guidelines apply",
+      "No, only TOM events are sanctioned",
+      "Only if results are not reported",
+      "Only for side events"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-621",
+    "topic": "Sanctioning & venues",
+    "page": "19",
+    "question": "Which local League events award Championship Points?",
+    "answers": [
+      "League Challenges and League Cups",
+      "Every Friendly Tournament",
+      "Every League session",
+      "All Prereleases"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-622",
+    "topic": "Sanctioning & venues",
+    "page": "19",
+    "question": "What is needed to sanction a Championship Series event?",
+    "answers": [
+      "Access to the special sanctioning tool",
+      "Only a spreadsheet",
+      "Only a Player ID",
+      "A spectator's approval"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-623",
+    "topic": "Sanctioning & venues",
+    "page": "19",
+    "question": "Does the seven-day sanctioning requirement apply to Friendly Tournaments and Prereleases?",
+    "answers": [
+      "No, early sanctioning is encouraged but not required",
+      "Yes, without exceptions",
+      "Only if held on weekends",
+      "Only if there are eight competitors"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-624",
+    "topic": "Tournament entry & integrity",
+    "page": "20",
+    "question": "May an Organizer prioritize regular League attendees for preregistration?",
+    "answers": [
+      "Yes",
+      "No, never",
+      "Only if they are Masters",
+      "Only if they have Championship Points"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-625",
+    "topic": "Tournament entry & integrity",
+    "page": "20",
+    "question": "When prioritizing registration for regular League attendees, what is recommended?",
+    "answers": [
+      "Communicate the priority as early as possible",
+      "Keep the policy secret",
+      "Announce it after the tournament",
+      "Use it only after pairings"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-626",
+    "topic": "Tournament entry & integrity",
+    "page": "20",
+    "question": "May an Organizer refuse entry to someone whose presence threatens others' safety?",
+    "answers": [
+      "Yes",
+      "No, every Player ID guarantees entry",
+      "Only if a spectator requests it",
+      "Only if the player has no cards"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-627",
+    "topic": "Tournament entry & integrity",
+    "page": "20",
+    "question": "What should an Organizer do about previously unreported behavior serious enough to justify refusing entry?",
+    "answers": [
+      "Submit a report for review",
+      "Publish the player's private details",
+      "Ignore the behavior",
+      "Automatically alter past results"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-628",
+    "topic": "Tournament entry & integrity",
+    "page": "20",
+    "question": "May Organizers charge tournament entry fees?",
+    "answers": [
+      "Yes, subject to applicable laws",
+      "No, all events must be free",
+      "Only at World Championships",
+      "Only when a Judge sets the fee"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-629",
+    "topic": "Tournament entry & integrity",
+    "page": "20",
+    "question": "Who is responsible for complying with local entry-fee laws?",
+    "answers": [
+      "The Organizer",
+      "The youngest competitor",
+      "The Head Judge alone",
+      "The scorekeeping software"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-630",
+    "topic": "Tournament integrity",
+    "page": "21",
+    "question": "When can legality checks be performed at Championship Series events?",
+    "answers": [
+      "At any time during any tournament phase",
+      "Only before round one",
+      "Only after the final",
+      "Only during top cut"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-631",
+    "topic": "Tournament integrity",
+    "page": "21",
+    "question": "What should staff balance when maximizing legality checks?",
+    "answers": [
+      "Quality and uninterrupted tournament proceedings",
+      "Only the total number checked",
+      "The popularity of each player",
+      "The value of the cards"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-632",
+    "topic": "Tournament integrity",
+    "page": "21",
+    "question": "How should an Organizer request an exceptional transfer of tournament responsibility?",
+    "answers": [
+      "Through Play! Pokémon customer support",
+      "Through an informal message to a competitor",
+      "By editing the standings",
+      "By leaving without notice"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-633",
+    "topic": "Tournament integrity",
+    "page": "21",
+    "question": "Why is a multiple-Judge presence recommended?",
+    "answers": [
+      "To reduce wait times and facilitate legality checks",
+      "To eliminate the need for an Organizer",
+      "To allow Judges to compete simultaneously",
+      "To avoid recording results"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-634",
+    "topic": "Tournament integrity",
+    "page": "21",
+    "question": "What rules apply to remuneration of tournament staff?",
+    "answers": [
+      "Applicable local legal requirements must be followed",
+      "All Judges must work unpaid",
+      "All Judges must receive a fixed global salary",
+      "No local rules apply"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-635",
+    "topic": "Appeals & match records",
+    "page": "22",
+    "question": "Can a competitor appeal before hearing the initial ruling in full?",
+    "answers": [
+      "No",
+      "Yes, at any time before the ruling",
+      "Only in Swiss",
+      "Only if losing the game"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-636",
+    "topic": "Appeals & match records",
+    "page": "22",
+    "question": "At which events may Assistant Head Judges hear appeals under the described staffing policy?",
+    "answers": [
+      "Large Championship Series events",
+      "Only Friendly Tournaments",
+      "Only League sessions",
+      "Only unsanctioned events"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-637",
+    "topic": "Appeals & match records",
+    "page": "22",
+    "question": "What does signing a paper match slip normally establish?",
+    "answers": [
+      "The result is final",
+      "The result is provisional until the next day",
+      "Either player can rewrite it at will",
+      "The game must be replayed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-638",
+    "topic": "Appeals & match records",
+    "page": "22",
+    "question": "Who may exceptionally supersede a signed match slip when integrity is at risk?",
+    "answers": [
+      "TPCi",
+      "The winner alone",
+      "A spectator",
+      "Any competitor in the tournament"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-639",
+    "topic": "Appeals & match records",
+    "page": "22",
+    "question": "Are match slips required at TCG Championship Series events?",
+    "answers": [
+      "Yes",
+      "No, always optional",
+      "Only for the final",
+      "Only for players with ties"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-640",
+    "topic": "Appeals & match records",
+    "page": "22",
+    "question": "Are match slips required at Pokémon GO League Challenges and League Cups?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only at World Championships",
+      "Only if a match is streamed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-641",
+    "topic": "Appeals & match records",
+    "page": "23",
+    "question": "When do digitally submitted match results normally become final?",
+    "answers": [
+      "Upon submission through the online client",
+      "When both players send separate submissions",
+      "When the event ends",
+      "When the next event begins"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-642",
+    "topic": "Appeals & match records",
+    "page": "23",
+    "question": "At a tournament with Swiss and top cut, when should standings be posted?",
+    "answers": [
+      "At the conclusion of each phase",
+      "Only after the entire event",
+      "Only before round one",
+      "Only on request after a month"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-643",
+    "topic": "Appeals & match records",
+    "page": "23",
+    "question": "Who should a competitor contact about an incorrectly recorded Player ID?",
+    "answers": [
+      "The Organizer of the relevant tournament",
+      "A randomly selected Judge from another event",
+      "The opponent",
+      "The venue landlord"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-644",
+    "topic": "Appeals & match records",
+    "page": "23",
+    "question": "Who should contact customer support if a Player ID discrepancy is found after the tournament?",
+    "answers": [
+      "The Organizer",
+      "Any spectator",
+      "The opponent's parent",
+      "The scorekeeping software provider"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-645",
+    "topic": "Appeals & match records",
+    "page": "23",
+    "question": "What must a competitor do when instructed to play at a designated streamed match location?",
+    "answers": [
+      "Follow the Organizer's directions",
+      "Choose any available table",
+      "Refuse without explanation",
+      "Wait until the next round"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-646",
+    "topic": "Streamed matches",
+    "page": "24",
+    "question": "May a streamed match require replacement sleeves or a particular playmat?",
+    "answers": [
+      "Yes, competitors are expected to comply",
+      "No, equipment requirements never change",
+      "Only if both players agree",
+      "Only after the game ends"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-647",
+    "topic": "Streamed matches",
+    "page": "24",
+    "question": "When should a competitor raise an individual difficulty with appearing on stream if possible?",
+    "answers": [
+      "Before the day of the event",
+      "Only after being called to stream",
+      "After the tournament concludes",
+      "Never"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-648",
+    "topic": "Streamed matches",
+    "page": "24",
+    "question": "What distinguishes a featured match from an ordinary Tournament Zone match?",
+    "answers": [
+      "It is showcased in a designated area",
+      "It must always be the final",
+      "It is always an unsanctioned match",
+      "It has no Judge coverage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-649",
+    "topic": "Streamed matches",
+    "page": "25",
+    "question": "A streamed player requires more than the standard personal break. What must they do?",
+    "answers": [
+      "Alert tournament staff immediately",
+      "Leave without telling anyone",
+      "Ask the opponent to extend the clock",
+      "Automatically take unlimited time"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-650",
+    "topic": "Streamed matches",
+    "page": "25",
+    "question": "A competitor waives their personal break before going on stream. What is expected?",
+    "answers": [
+      "They are ready to play uninterrupted",
+      "They may stop the game whenever desired",
+      "They receive another five-minute break midgame",
+      "They can consult outside resources"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-651",
+    "topic": "Streamed matches",
+    "page": "25",
+    "question": "May a competitor use personal time to access outside information for their next streamed match?",
+    "answers": [
+      "No",
+      "Yes, during the first five minutes",
+      "Yes, if a friend supplies it",
+      "Yes, if no one sees"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-652",
+    "topic": "Streamed matches",
+    "page": "25",
+    "question": "What should a competitor have ready at the end of their personal break?",
+    "answers": [
+      "Required materials and approved logos, ready for camera",
+      "Only their Player ID",
+      "A new opponent",
+      "A revised tournament schedule"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-653",
+    "topic": "Streamed matches",
+    "page": "25",
+    "question": "How far before an event must a sponsorship approval request be received?",
+    "answers": [
+      "At least three weeks",
+      "At least three days",
+      "At least one week",
+      "At least one day"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-654",
+    "topic": "Streamed matches",
+    "page": "25",
+    "question": "Who has discretion to approve or refuse sponsorship requests?",
+    "answers": [
+      "TPCi",
+      "The competitor",
+      "The sponsor alone",
+      "The opponent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-655",
+    "topic": "Tournament operations & ranking",
+    "page": "28",
+    "question": "When does a TCG match begin for tournament administration?",
+    "answers": [
+      "When players decide who goes first in game one",
+      "When the first attack is declared",
+      "When the first Prize is taken",
+      "When both decks are registered"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-656",
+    "topic": "Tournament operations & ranking",
+    "page": "28",
+    "question": "When does a VGC match begin for tournament administration?",
+    "answers": [
+      "When staff announce the round has begun",
+      "When the first Pokémon faints",
+      "When team preview ends",
+      "When the first game concludes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-657",
+    "topic": "Tournament operations & ranking",
+    "page": "28",
+    "question": "When does a Pokémon GO match begin for tournament administration?",
+    "answers": [
+      "When staff announce the round has begun",
+      "When a Pokémon uses its first attack",
+      "When players submit results",
+      "When the first game ends"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-658",
+    "topic": "Tournament operations & ranking",
+    "page": "28",
+    "question": "Who can provide an official time check?",
+    "answers": [
+      "A Judge or tournament administrator",
+      "Any spectator",
+      "The opponent's friend",
+      "A player in another match"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-659",
+    "topic": "Tournament operations & ranking",
+    "page": "28",
+    "question": "What determines a competitor's age division for the season?",
+    "answers": [
+      "Year of birth at the start of the season",
+      "Age on each tournament day",
+      "Current ranking",
+      "Number of tournaments played"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-660",
+    "topic": "Tournament operations & ranking",
+    "page": "28",
+    "question": "Does a competitor change age division on their birthday during a season?",
+    "answers": [
+      "No",
+      "Yes, immediately",
+      "Only after a win",
+      "Only at local events"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-661",
+    "topic": "Tournament operations & ranking",
+    "page": "28",
+    "question": "When does the tournament season begin each year?",
+    "answers": [
+      "September 1 at 00:00 UTC",
+      "January 1 at 00:00 UTC",
+      "August 1 at local noon",
+      "October 1 at 00:00 UTC"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-662",
+    "topic": "Tournament operations & ranking",
+    "page": "28",
+    "question": "When should best-of-three phases be announced?",
+    "answers": [
+      "Before the first round begins",
+      "After the first game of each match",
+      "Only after Swiss concludes",
+      "When the final starts"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-663",
+    "topic": "Tournament operations & ranking",
+    "page": "29",
+    "question": "What is the minimum number of competitors for a sanctioned tournament?",
+    "answers": [
+      "4",
+      "2",
+      "6",
+      "8"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-664",
+    "topic": "Tournament operations & ranking",
+    "page": "29",
+    "question": "What constitutes a valid opponent before completing the third round?",
+    "answers": [
+      "An opponent not already played",
+      "Any previous opponent",
+      "Only a player from the same age division",
+      "Only an undefeated player"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-665",
+    "topic": "Tournament operations & ranking",
+    "page": "29",
+    "question": "Drops make it impossible for a player to face a valid opponent before the third round. What is the tournament status?",
+    "answers": [
+      "Invalid",
+      "Automatically valid",
+      "Converted to a Championship",
+      "Valid if the winner agrees"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-666",
+    "topic": "Tournament operations & ranking",
+    "page": "29",
+    "question": "How should an Organizer report a tournament that fails the minimum requirements?",
+    "answers": [
+      "Cancelled",
+      "Completed",
+      "Pending forever",
+      "Disqualified"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-667",
+    "topic": "Tournament operations & ranking",
+    "page": "29",
+    "question": "Does a properly assigned random bye count as a valid opponent for minimum tournament requirements?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only in top cut",
+      "Only in Masters"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-668",
+    "topic": "Tournament operations & ranking",
+    "page": "29",
+    "question": "When is age-combined Swiss used?",
+    "answers": [
+      "When an age division has fewer than six competitors",
+      "Whenever any division has fewer than ten",
+      "Only when there are exactly three players",
+      "Only at World Championships"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-669",
+    "topic": "Tournament operations & ranking",
+    "page": "29",
+    "question": "There are five Juniors and eight Seniors. Which groups are first combined?",
+    "answers": [
+      "Juniors and Seniors",
+      "Juniors and Masters",
+      "Seniors and Masters only",
+      "All three automatically"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-670",
+    "topic": "Tournament operations & ranking",
+    "page": "29",
+    "question": "Only Masters has fewer than six competitors. Which group is it combined with?",
+    "answers": [
+      "Seniors",
+      "Juniors",
+      "Spectators",
+      "No group"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-671",
+    "topic": "Tournament operations & ranking",
+    "page": "29",
+    "question": "Do age-combined Swiss pods share final standings across age divisions?",
+    "answers": [
+      "No, each age division has its own standings",
+      "Yes, always",
+      "Only if Masters has more players",
+      "Only if all players agree"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-672",
+    "topic": "Tournament operations & ranking",
+    "page": "29",
+    "question": "Are age divisions separated for single-elimination rounds after combined Swiss?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only for the final match",
+      "Only for players with a bye"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-673",
+    "topic": "Tournament operations & ranking",
+    "page": "30",
+    "question": "A late entrant is added after round two has begun. When are they paired?",
+    "answers": [
+      "The following round",
+      "Immediately into an ongoing match",
+      "At the end of the event",
+      "Before round one retroactively"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-674",
+    "topic": "Tournament operations & ranking",
+    "page": "30",
+    "question": "What results are recorded for a late entrant's current and already completed rounds?",
+    "answers": [
+      "Losses",
+      "Ties",
+      "Wins",
+      "No results"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-675",
+    "topic": "Tournament operations & ranking",
+    "page": "30",
+    "question": "Does a player added after round one is paired increase the number of tournament rounds?",
+    "answers": [
+      "No",
+      "Yes, by one",
+      "Yes, by two",
+      "Only if undefeated"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-676",
+    "topic": "Tournament operations & ranking",
+    "page": "30",
+    "question": "May competitors be added to Championship Series events after round three is completed?",
+    "answers": [
+      "No, they should not be added",
+      "Yes, always",
+      "Only with a random bye",
+      "Only if they pay an extra fee"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-677",
+    "topic": "Tournament operations & ranking",
+    "page": "30",
+    "question": "Who decides whether a round is re-paired due to a match-record error?",
+    "answers": [
+      "The Organizer",
+      "The affected competitor alone",
+      "A spectator",
+      "The opponent alone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-678",
+    "topic": "Tournament operations & ranking",
+    "page": "30",
+    "question": "When is it too late to correct a round-one match record?",
+    "answers": [
+      "After round three is paired",
+      "After round two is paired",
+      "After round four ends",
+      "Only after the event ends"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-679",
+    "topic": "Tournament operations & ranking",
+    "page": "30",
+    "question": "If a match-record error is corrected before round start and re-pairing is chosen, how many competitors should be re-paired?",
+    "answers": [
+      "The minimum needed for valid pairings",
+      "Every competitor regardless of need",
+      "Only the highest seed",
+      "Only spectators"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-680",
+    "topic": "Swiss tiebreakers",
+    "page": "31",
+    "question": "How is a completed-event opponent's win percentage calculated before applying bounds?",
+    "answers": [
+      "Wins divided by total tournament rounds",
+      "Match points divided by wins",
+      "Wins divided by losses",
+      "Total Prizes divided by rounds"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-681",
+    "topic": "Swiss tiebreakers",
+    "page": "31",
+    "question": "A competitor completes five rounds with one win. What win percentage is used?",
+    "answers": [
+      "25%",
+      "20%",
+      "50%",
+      "0%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-682",
+    "topic": "Swiss tiebreakers",
+    "page": "31",
+    "question": "A competitor completes five rounds with three wins. What win percentage is used?",
+    "answers": [
+      "60%",
+      "75%",
+      "25%",
+      "100%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-683",
+    "topic": "Swiss tiebreakers",
+    "page": "31",
+    "question": "Does a random bye count as a win for calculating opponents' win percentage?",
+    "answers": [
+      "No",
+      "Yes, always",
+      "Only in round one",
+      "Only if there are fewer than six players"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-684",
+    "topic": "Swiss tiebreakers",
+    "page": "32",
+    "question": "What is the upper win-percentage cap for an opponent who drops early?",
+    "answers": [
+      "75%",
+      "100%",
+      "50%",
+      "25%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-685",
+    "topic": "Swiss tiebreakers",
+    "page": "32",
+    "question": "An opponent drops after winning all five rounds played. What win percentage is used?",
+    "answers": [
+      "75%",
+      "100%",
+      "50%",
+      "25%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-686",
+    "topic": "Swiss tiebreakers",
+    "page": "32",
+    "question": "An opponent drops after winning one of five rounds played. What win percentage is used?",
+    "answers": [
+      "25%",
+      "20%",
+      "75%",
+      "0%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-687",
+    "topic": "Swiss tiebreakers",
+    "page": "32",
+    "question": "An opponent drops after winning three of five rounds played. What win percentage is used?",
+    "answers": [
+      "60%",
+      "75%",
+      "25%",
+      "100%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-688",
+    "topic": "Swiss tiebreakers",
+    "page": "32",
+    "question": "How are individual opponents' win percentages combined?",
+    "answers": [
+      "Arithmetic average",
+      "Sum without division",
+      "Highest value only",
+      "Lowest value only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-689",
+    "topic": "Concessions & intentional draws",
+    "page": "32",
+    "question": "May a TCG competitor make one offer to draw during their match?",
+    "answers": [
+      "Yes",
+      "No, never",
+      "Only after signing the result",
+      "Only before the match begins"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-690",
+    "topic": "Concessions & intentional draws",
+    "page": "32",
+    "question": "May a competitor ask their opponent to concede?",
+    "answers": [
+      "No",
+      "Yes, once per game",
+      "Yes, if behind on Prizes",
+      "Yes, after time is called"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-691",
+    "topic": "Concessions & intentional draws",
+    "page": "32",
+    "question": "An opponent clearly refuses a draw offer. May the player offer again?",
+    "answers": [
+      "No",
+      "Yes, every turn",
+      "Only after a Judge leaves",
+      "Yes, if the standings change"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-692",
+    "topic": "Concessions & intentional draws",
+    "page": "32",
+    "question": "May players wait for other matches to resolve before deciding to draw?",
+    "answers": [
+      "No",
+      "Yes, always",
+      "Only in Swiss round one",
+      "Only with the opponent's consent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-693",
+    "topic": "Concessions & intentional draws",
+    "page": "32",
+    "question": "May a player consult tournament standings to decide whether to concede?",
+    "answers": [
+      "No",
+      "Yes, during their turn",
+      "Only when a Judge is present",
+      "Only if the match is streamed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-694",
+    "topic": "Concessions & intentional draws",
+    "page": "32",
+    "question": "May a player voluntarily concede during a match without receiving anything in exchange?",
+    "answers": [
+      "Yes",
+      "No, never",
+      "Only when all Prizes are taken",
+      "Only after signing a match slip"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-695",
+    "topic": "Concessions & intentional draws",
+    "page": "32",
+    "question": "May competitors offer money or prizes in exchange for a result?",
+    "answers": [
+      "No, this is match-fixing",
+      "Yes, if both agree",
+      "Only in top cut",
+      "Only for an intentional draw"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-696",
+    "topic": "Concessions & intentional draws",
+    "page": "32",
+    "question": "Do tournament staff enforce informal concession or draw agreements made during a match?",
+    "answers": [
+      "No",
+      "Yes, in every case",
+      "Only when written down",
+      "Only when streamed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-697",
+    "topic": "Tournament formats",
+    "page": "33",
+    "question": "Which tournament styles are ordinarily sanctioned for TCG?",
+    "answers": [
+      "Swiss, single elimination, or Swiss plus single elimination",
+      "Double elimination only",
+      "Round robin only",
+      "Any format without permission"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-698",
+    "topic": "Tournament formats",
+    "page": "33",
+    "question": "Which tournament style is used for GO Regional Championships?",
+    "answers": [
+      "Double elimination",
+      "Single game round robin",
+      "Swiss only",
+      "Single elimination only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-699",
+    "topic": "Tournament formats",
+    "page": "33",
+    "question": "What is required to use a tournament style outside the authorized formats?",
+    "answers": [
+      "Express written permission from Play! Pokémon",
+      "Agreement from one player",
+      "A larger venue",
+      "No permission"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-700",
+    "topic": "Tournament formats",
+    "page": "33",
+    "question": "How are competitors paired in the first Swiss round?",
+    "answers": [
+      "Randomly",
+      "By number of cards owned",
+      "By age regardless of age pod",
+      "By previous tournament ranking only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-701",
+    "topic": "Tournament formats",
+    "page": "33",
+    "question": "Does a Swiss bye count as a win for match results?",
+    "answers": [
+      "Yes",
+      "No, it is a loss",
+      "No, it is a tie",
+      "Only when assigned in top cut"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-702",
+    "topic": "Tournament formats",
+    "page": "33",
+    "question": "Are Swiss players eliminated merely because they lose one match?",
+    "answers": [
+      "No",
+      "Yes",
+      "Only if they lose game one",
+      "Only if their opponent is undefeated"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-703",
+    "topic": "Swiss tiebreakers",
+    "page": "34",
+    "question": "Which criterion ranks Swiss competitors before tiebreakers?",
+    "answers": [
+      "Final match points",
+      "Number of Prize cards taken",
+      "Age",
+      "Registration time"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-704",
+    "topic": "Swiss tiebreakers",
+    "page": "34",
+    "question": "Which is the first Swiss standings tiebreaker?",
+    "answers": [
+      "Opponents' win percentage",
+      "Head-to-head",
+      "Random order",
+      "Opponents' opponents' win percentage"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-705",
+    "topic": "Swiss tiebreakers",
+    "page": "34",
+    "question": "Which is the second Swiss standings tiebreaker?",
+    "answers": [
+      "Opponents' opponents' win percentage",
+      "Head-to-head",
+      "Random order",
+      "Total Prize cards taken"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-706",
+    "topic": "Swiss tiebreakers",
+    "page": "34",
+    "question": "Exactly two players remain tied after percentage tiebreakers and played each other. Who ranks higher?",
+    "answers": [
+      "The winner of their head-to-head match",
+      "The older competitor",
+      "The first to register",
+      "The player with the more expensive deck"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-707",
+    "topic": "Swiss tiebreakers",
+    "page": "34",
+    "question": "Exactly two players remain tied and never played each other. How is their order determined?",
+    "answers": [
+      "Randomly",
+      "By age",
+      "By deck size",
+      "By alphabetical order"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-708",
+    "topic": "Swiss tiebreakers",
+    "page": "34",
+    "question": "Three players remain tied after percentage tiebreakers. How is their order determined?",
+    "answers": [
+      "Randomly",
+      "By head-to-head only",
+      "By registration time",
+      "By number of cards drawn"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-709",
+    "topic": "Swiss tiebreakers",
+    "page": "34",
+    "question": "If one tiebreaker resolves a tie, should later tiebreakers still be used?",
+    "answers": [
+      "No",
+      "Yes, all are always combined",
+      "Only head-to-head is still used",
+      "Only if both players agree"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-710",
+    "topic": "Swiss tiebreakers",
+    "page": "34",
+    "question": "In later Swiss rounds with an odd number of competitors, which bracket receives the random bye after pairing down?",
+    "answers": [
+      "The lowest match-record bracket",
+      "The highest match-record bracket",
+      "The bracket with the oldest player",
+      "A bracket selected by spectators"
+    ],
+    "correctIndex": 0
+  }
+]

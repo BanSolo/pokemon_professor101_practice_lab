@@ -1,0 +1,169 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background: #101827;
+  color: #eef3fa;
+  font: 16px system-ui;
+  line-height: 1.5;
+}
+main {
+  max-width: 850px;
+  margin: auto;
+  padding: 28px 18px;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+}
+h1 {
+  font-size: 30px;
+  margin: 0;
+}
+small,
+.muted {
+  color: #a9b8cc;
+}
+.tag {
+  color: #facc15;
+  font-size: 12px;
+  letter-spacing: 2px;
+  font-weight: 800;
+}
+section {
+  background: #192538;
+  border: 1px solid #30415a;
+  border-radius: 20px;
+  padding: 22px;
+  margin-top: 18px;
+}
+button,
+select {
+  font: inherit;
+  color: inherit;
+  background: #24354d;
+  border: 1px solid #41546d;
+  border-radius: 12px;
+  padding: 12px;
+  cursor: pointer;
+}
+button:hover {
+  border-color: #facc15;
+}
+button:disabled {
+  cursor: default;
+}
+select {
+  max-width: 100%;
+}
+.controls {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.primary {
+  background: #facc15;
+  color: #172033;
+  font-weight: 750;
+  border: none;
+}
+.stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+.stats div {
+  background: #202f44;
+  padding: 12px;
+  border-radius: 12px;
+}
+.stats strong {
+  display: block;
+  font-size: 25px;
+}
+#answers {
+  display: grid;
+  gap: 10px;
+}
+#answers button {
+  text-align: left;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  min-height: 58px;
+}
+#answers button.good {
+  background: #164c3c;
+  border-color: #54d6a3;
+}
+#answers button.bad {
+  background: #672e3c;
+  border-color: #ff8498;
+}
+.letter {
+  border: 1px solid #73829a;
+  border-radius: 7px;
+  padding: 2px 9px;
+}
+#feedback {
+  padding: 12px 0;
+}
+#bar {
+  height: 7px;
+  background: #314057;
+  border-radius: 6px;
+  overflow: hidden;
+}
+#fill {
+  height: 100%;
+  background: #facc15;
+  transition: width 0.2s;
+}
+h2 {
+  font-size: 23px;
+  line-height: 1.35;
+}
+footer {
+  font-size: 13px;
+  color: #a9b8cc;
+  margin-top: 20px;
+}
+#next {
+  width: 100%;
+}
+details {
+  margin-top: 16px;
+}
+@media (max-width: 500px) {
+  h1 {
+    font-size: 24px;
+  }
+  section {
+    padding: 15px;
+  }
+  .stats strong {
+    font-size: 20px;
+  }
+}
+
+.brand-icon {
+  font-size: 36px;
+}
+.source-list {
+  margin-top: 12px;
+}
+.quiz-header {
+  justify-content: space-between;
+}
+.reset-button {
+  padding: 5px 10px;
+  font-size: 12px;
+}
+.source-option {
+  display: block;
+  padding: 6px 0;
+}

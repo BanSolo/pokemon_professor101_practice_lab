@@ -1,0 +1,1925 @@
+[
+  {
+    "id": "2-144",
+    "topic": "Judge philosophy",
+    "page": "7",
+    "question": "A player requests an appeal of a Judge's ruling. What must the Judge do?",
+    "answers": [
+      "Accommodate escalation to the Head Judge",
+      "Refuse if the ruling is correct",
+      "Wait until after the event",
+      "Ask the opponent to vote"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-145",
+    "topic": "Judge philosophy",
+    "page": "7",
+    "question": "Can players concede after a Game Loss has been assigned to avoid the penalty?",
+    "answers": [
+      "No",
+      "Yes, if both agree",
+      "Yes, before signing the slip",
+      "Yes, in Swiss only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-146",
+    "topic": "Judge philosophy",
+    "page": "7",
+    "question": "What should a Judge do before issuing a penalty?",
+    "answers": [
+      "Fully investigate the infraction",
+      "Always issue a Warning immediately",
+      "Ask the opponent to choose",
+      "Use only the player's age"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-147",
+    "topic": "Judge philosophy",
+    "page": "8",
+    "question": "What is the appropriate penalty if the game state is irreparably damaged?",
+    "answers": ["Game Loss", "Caution", "Warning", "Always Disqualification"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-148",
+    "topic": "Judge philosophy",
+    "page": "9",
+    "question": "Which factors matter when selecting an appropriate penalty?",
+    "answers": [
+      "Infraction, game impact, age or skill, intent and other circumstances",
+      "Only the printed starting penalty",
+      "Only the player's record",
+      "Only whether the opponent complains"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-149",
+    "topic": "Penalty types",
+    "page": "9",
+    "question": "Which minor penalty must be reported to Play! Pokémon by the Head Judge or Organizer?",
+    "answers": [
+      "Warning",
+      "Caution only",
+      "Neither",
+      "Both are never reported"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-150",
+    "topic": "Penalty types",
+    "page": "10",
+    "question": "Who should be consulted before assigning a penalty more severe than a Warning?",
+    "answers": [
+      "Head Judge or Assistant Head Judge",
+      "Opponent",
+      "Scorekeeper only",
+      "Venue security"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-151",
+    "topic": "Penalty types",
+    "page": "10",
+    "question": "In a six-Prize game, how many Prizes must the opponent take after a Double Prize Card penalty?",
+    "answers": ["Four", "Two", "Six", "Three"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-152",
+    "topic": "Penalty types",
+    "page": "10",
+    "question": "In a six-Prize game, how many Prizes must the opponent take after a Quadruple Prize Card penalty?",
+    "answers": ["Two", "Four", "Six", "One"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-153",
+    "topic": "Penalty types",
+    "page": "10",
+    "question": "Are Prize cards physically removed when applying a Double Prize Card penalty?",
+    "answers": [
+      "No, the win threshold changes",
+      "Yes, two are discarded",
+      "Yes, two are drawn immediately",
+      "Yes, all are shuffled away"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-154",
+    "topic": "Penalty types",
+    "page": "10",
+    "question": "The opponent has already taken four Prizes when a Double Prize Card penalty is issued. What happens?",
+    "answers": [
+      "The opponent immediately wins the game",
+      "The opponent still needs two more",
+      "The game is restarted",
+      "The penalty is postponed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-155",
+    "topic": "Penalty types",
+    "page": "10",
+    "question": "When is a Game Loss generally appropriate?",
+    "answers": [
+      "When the game state is irreparably broken",
+      "Whenever a player asks a question",
+      "For every first minor mistake",
+      "Only for intentional cheating"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-156",
+    "topic": "Application & pace of play",
+    "page": "18",
+    "question": "What should a time extension correspond to?",
+    "answers": [
+      "The time taken to resolve the issue",
+      "Always five minutes",
+      "The number of penalties",
+      "The remaining Prize cards"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-157",
+    "topic": "Application & pace of play",
+    "page": "33",
+    "question": "What is the pace-of-play guideline for initial shuffling and setup?",
+    "answers": ["3 minutes", "1 minute", "5 minutes", "30 seconds"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-158",
+    "topic": "Application & pace of play",
+    "page": "33",
+    "question": "What is the guideline for the first deck search and shuffle?",
+    "answers": ["45 seconds", "15 seconds", "90 seconds", "3 minutes"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-159",
+    "topic": "Application & pace of play",
+    "page": "33",
+    "question": "What is the guideline for mid-game deck searches and shuffling?",
+    "answers": ["15 seconds", "45 seconds", "5 seconds", "60 seconds"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-160",
+    "topic": "Application & pace of play",
+    "page": "33",
+    "question": "What is the guideline for considering the game position before playing a card?",
+    "answers": ["10 seconds", "30 seconds", "45 seconds", "3 seconds"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-161",
+    "topic": "Application & pace of play",
+    "page": "33",
+    "question": "What is the guideline for beginning a turn after the opponent announces its end?",
+    "answers": ["5 seconds", "15 seconds", "30 seconds", "60 seconds"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-162",
+    "topic": "Application & pace of play",
+    "page": "33",
+    "question": "Are pace-of-play time guidelines absolute limits independent of context?",
+    "answers": [
+      "No, consider normal gameplay context",
+      "Yes, every second over is cheating",
+      "Yes, but only in finals",
+      "Yes, except during setup"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-163",
+    "topic": "Application & pace of play",
+    "page": "34",
+    "question": "What is the recommended starting penalty for minor pace of play?",
+    "answers": ["Warning", "Caution", "Game Loss", "Disqualification"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-164",
+    "topic": "Application & pace of play",
+    "page": "34",
+    "question": "What is the recommended starting penalty for severe pace of play in TCG?",
+    "answers": [
+      "Double Prize Card penalty",
+      "Warning",
+      "Quadruple Prize Card penalty",
+      "Match Loss"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-165",
+    "topic": "Reporting & discipline",
+    "page": "35",
+    "question": "When must the Tournament Penalty Summary be submitted?",
+    "answers": [
+      "Within seven days of event conclusion",
+      "Within 14 days",
+      "Within 30 days",
+      "Before the final round"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-166",
+    "topic": "Reporting & discipline",
+    "page": "35",
+    "question": "When must a Disqualification Report be submitted?",
+    "answers": [
+      "Within 14 days of event conclusion",
+      "Within seven days",
+      "Within 30 days",
+      "Only upon request"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-167",
+    "topic": "Reporting & discipline",
+    "page": "35",
+    "question": "Who is responsible for submitting a Disqualification Report?",
+    "answers": [
+      "Head Judge",
+      "Disqualified competitor",
+      "Opponent",
+      "Venue owner"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-168",
+    "topic": "Reporting & discipline",
+    "page": "35",
+    "question": "At what level must every disqualification be followed by a Disqualification Report?",
+    "answers": [
+      "Championship Series events",
+      "Only Worlds",
+      "Only International Championships",
+      "Only local Friendly events"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-169",
+    "topic": "Reporting & discipline",
+    "page": "36",
+    "question": "May a suspended competitor attend a Play! Pokémon event as a spectator?",
+    "answers": [
+      "No",
+      "Yes, if not competing",
+      "Yes, if accompanied by a Professor",
+      "Yes, at local tournaments"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-170",
+    "topic": "Pokémon GO specific",
+    "page": "32",
+    "question": "Which takes priority if a GO team and team list disagree?",
+    "answers": [
+      "The team list",
+      "The actual team",
+      "The opponent's notes",
+      "The most recently edited version"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-171",
+    "topic": "Pokémon GO specific",
+    "page": "32",
+    "question": "What kind of GO team error is listing the wrong CP?",
+    "answers": [
+      "Major",
+      "Always minor",
+      "Never an infraction",
+      "Automatically cheating"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-172",
+    "topic": "Pokémon GO specific",
+    "page": "33",
+    "question": "A GO competitor has fewer than three usable Pokémon after earlier penalties. What severity applies?",
+    "answers": ["Severe", "Minor", "No infraction", "Always a Caution"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-173",
+    "topic": "Pokémon GO specific",
+    "page": "33",
+    "question": "Which penalty may be appropriate when a GO team-list error is only a mistaken HP value?",
+    "answers": [
+      "Warning",
+      "Automatic Disqualification",
+      "Match Loss",
+      "No possibility of deviation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-174",
+    "topic": "Video Game specific",
+    "page": "37",
+    "question": "Who has final authority if staff disagree about whether a Pokémon meets the illegal-manipulation criteria?",
+    "answers": ["Head Judge", "Scorekeeper", "Opponent", "Any spectator"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-175",
+    "topic": "Video Game specific",
+    "page": "37",
+    "question": "An illegally obtained attribute gives no discernible competitive advantage. What category is described in Appendix A?",
+    "answers": [
+      "Major team error",
+      "Minor team error",
+      "No infraction",
+      "Pace of play"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-176",
+    "topic": "Video Game specific",
+    "page": "37",
+    "question": "An illegally obtained stat provides a potential competitive advantage. What category applies?",
+    "answers": [
+      "Severe team error",
+      "Minor team error",
+      "Procedural error",
+      "Tardiness"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-177",
+    "topic": "Video Game specific",
+    "page": "37",
+    "question": "Can a Pokémon removed due to a major illegal-manipulation team error be replaced?",
+    "answers": [
+      "No",
+      "Yes, with any legal Pokémon",
+      "Yes, after the next round",
+      "Yes, if the opponent consents"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-218",
+    "topic": "TCG gameplay errors",
+    "page": "23",
+    "question": "What is the recommended starting penalty for a minor TCG gameplay error?",
+    "answers": ["Warning", "Caution", "Double Prize Card penalty", "Game Loss"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-219",
+    "topic": "TCG gameplay errors",
+    "page": "23",
+    "question": "What is the recommended starting penalty for a major TCG gameplay error?",
+    "answers": [
+      "Double Prize Card penalty",
+      "Warning",
+      "Game Loss",
+      "Match Loss"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-220",
+    "topic": "TCG gameplay errors",
+    "page": "23",
+    "question": "What is the recommended starting penalty for a severe TCG gameplay error?",
+    "answers": ["Game Loss", "Warning", "Double Prize Card penalty", "Caution"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-221",
+    "topic": "TCG gameplay errors",
+    "page": "24",
+    "question": "A player declares an attack without enough Energy and the error is caught immediately. What is the example base severity?",
+    "answers": ["Minor", "Major", "Severe", "Cheating automatically"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-222",
+    "topic": "TCG gameplay errors",
+    "page": "24",
+    "question": "A player accidentally draws an extra card, causing irreversible confusion. What is the example base severity?",
+    "answers": ["Major", "Minor", "No infraction", "Automatically cheating"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-223",
+    "topic": "TCG gameplay errors",
+    "page": "24",
+    "question": "A player forgets to set up Prizes and completes three deck searches. What is the example base severity?",
+    "answers": ["Severe", "Minor", "Major", "No infraction"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-224",
+    "topic": "TCG gameplay errors",
+    "page": "25",
+    "question": "An extra drawn card is identified before its face is seen and can be returned. Which penalty may be appropriate?",
+    "answers": [
+      "Warning",
+      "Mandatory Game Loss",
+      "Mandatory Match Loss",
+      "Disqualification"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-225",
+    "topic": "TCG gameplay errors",
+    "page": "24",
+    "question": "An accidental extra Energy attachment without a permitting effect is listed as what severity?",
+    "answers": ["Major", "Minor", "Severe", "No infraction"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-226",
+    "topic": "Video Game specific",
+    "page": "25",
+    "question": "What is the starting penalty for a minor VG gameplay error?",
+    "answers": ["Warning", "Game Loss", "Match Loss", "Disqualification"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-227",
+    "topic": "Video Game specific",
+    "page": "25",
+    "question": "What is the starting penalty for a severe VG gameplay error?",
+    "answers": ["Game Loss", "Warning", "Caution", "Double Prize Card penalty"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-228",
+    "topic": "Video Game specific",
+    "page": "25",
+    "question": "A VG player causes a fixable freeze with little game impact. What is the example severity?",
+    "answers": ["Minor", "Severe", "Automatically cheating", "No infraction"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-229",
+    "topic": "Pokémon GO specific",
+    "page": "26",
+    "question": "What is the starting penalty for a severe GO gameplay error?",
+    "answers": ["Game Loss", "Warning", "Caution", "Double Prize Card penalty"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-230",
+    "topic": "Pokémon GO specific",
+    "page": "26",
+    "question": "What is the starting penalty for a minor GO gameplay error?",
+    "answers": ["Warning", "Match Loss", "Game Loss", "Disqualification"],
+    "correctIndex": 0
+  },
+  {
+    "id": "2-231",
+    "topic": "Pokémon GO specific",
+    "page": "26",
+    "question": "A GO player cannot log in within ten minutes of the start of the match. What escalation is listed?",
+    "answers": [
+      "Match Loss",
+      "Caution",
+      "Double Prize Card penalty",
+      "No penalty"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-419",
+    "topic": "Penalty application",
+    "page": "9–12",
+    "question": "Are Cautions logged in the event's penalty report?",
+    "answers": [
+      "No",
+      "Yes, always",
+      "Only if the player appeals",
+      "Only at Regionals"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-420",
+    "topic": "Penalty application",
+    "page": "9–12",
+    "question": "Should Cautions issued by a floor Judge be communicated to the Head Judge?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only if escalated to Game Loss",
+      "Only after the event"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-421",
+    "topic": "Penalty application",
+    "page": "9–12",
+    "question": "At Regionals or above, how many Judges including the Head Judge must agree on a Disqualification?",
+    "answers": ["At least three", "One", "Two", "Five"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-422",
+    "topic": "Penalty application",
+    "page": "9–12",
+    "question": "Must every repeated minor infraction automatically escalate?",
+    "answers": [
+      "No, assess impact and educational purpose",
+      "Yes, always",
+      "Only for Juniors",
+      "Only if the opponent requests it"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-423",
+    "topic": "Penalty application",
+    "page": "9–12",
+    "question": "What happens to prizing when a competitor is disqualified?",
+    "answers": [
+      "They are ineligible for prizes",
+      "They retain all prizes",
+      "They receive half their prizes",
+      "They may choose prizes instead of standings"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-424",
+    "topic": "Penalty application",
+    "page": "9–12",
+    "question": "When is a Match Loss appropriate rather than a Game Loss?",
+    "answers": [
+      "When match integrity is irreparably compromised",
+      "Whenever a player makes a minor error",
+      "Whenever a player requests a ruling",
+      "Whenever a player loses an opening coin flip"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-425",
+    "topic": "Penalty application",
+    "page": "13–14",
+    "question": "When are Prize Card penalties applied?",
+    "answers": [
+      "Immediately once determined and confirmed",
+      "At the end of the tournament",
+      "At the start of the next match",
+      "Only after all Prizes are taken"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-426",
+    "topic": "Penalty application",
+    "page": "13–14",
+    "question": "A Game Loss is issued mid-game and another game is needed. What happens?",
+    "answers": [
+      "Immediately set up the following game",
+      "Continue the current game",
+      "Automatically record a Match Loss",
+      "Restart the same game without a loss"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-427",
+    "topic": "Penalty application",
+    "page": "13–14",
+    "question": "A player is disqualified during an ongoing Swiss match. What additional penalty applies?",
+    "answers": [
+      "Match Loss for the current match",
+      "A Caution only",
+      "Game Loss for their next match only",
+      "No match result is recorded"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-428",
+    "topic": "Penalty application",
+    "page": "13–14",
+    "question": "A player is disqualified between single-elimination matches. Which match receives the Match Loss?",
+    "answers": [
+      "Their most recently completed single-elimination match",
+      "Their first Swiss match",
+      "Their next match only",
+      "None"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-429",
+    "topic": "Penalty application",
+    "page": "13–14",
+    "question": "A guardian is removed, but the child committed no disqualifying infraction. What is the appropriate tournament status if they lack a replacement?",
+    "answers": [
+      "Dropped, not disqualified",
+      "Automatically disqualified",
+      "Permanent suspension",
+      "Quadruple Prize Card penalty"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-430",
+    "topic": "Penalty application",
+    "page": "13–14",
+    "question": "In GO, coincidental penalties leave no winner and fewer than ten minutes remain before the next round. Who advances if a tiebreaker cannot be played?",
+    "answers": [
+      "The top-seeded competitor",
+      "The lower-seeded competitor",
+      "The younger competitor",
+      "Neither, always a tie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-431",
+    "topic": "Penalty application",
+    "page": "13–14",
+    "question": "What penalty applies to the next match of the GO player who advances under the coincidental-penalty procedure?",
+    "answers": ["Match Loss", "Warning", "Caution", "No penalty"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-432",
+    "topic": "Reversibility & deviations",
+    "page": "15–16",
+    "question": "An accidental second Supporter switches both Active Pokémon; all prior positions are known and no other effect occurred. Which penalty is illustrated?",
+    "answers": [
+      "Warning after restoring the state",
+      "Automatic Game Loss",
+      "Disqualification",
+      "Match Loss"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-433",
+    "topic": "Reversibility & deviations",
+    "page": "15–16",
+    "question": "An accidental second Supporter draws two unknown cards and reveals an opponent's hand card through discard. Which penalty is illustrated in the guidelines?",
+    "answers": [
+      "Double Prize Card penalty",
+      "Caution",
+      "Automatic Match Loss",
+      "No penalty"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-434",
+    "topic": "Reversibility & deviations",
+    "page": "15–16",
+    "question": "An accidental second Supporter shuffles an unknown hand into the deck and the original hand cannot be identified. Which example penalty applies?",
+    "answers": ["Game Loss", "Caution", "Warning only", "No penalty"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-435",
+    "topic": "Reversibility & deviations",
+    "page": "15–16",
+    "question": "Why can a fully reversible error justify de-escalation?",
+    "answers": [
+      "Its actual impact on game integrity may be small",
+      "All accidental errors are exempt",
+      "The opponent can cancel any penalty",
+      "Every first infraction is a Caution"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-436",
+    "topic": "Reversibility & deviations",
+    "page": "15–16",
+    "question": "Can an infraction be escalated even if no escalation example is listed?",
+    "answers": [
+      "Yes, if the circumstances justify it",
+      "No",
+      "Only if the player is an adult",
+      "Only in finals"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-437",
+    "topic": "Reversibility & deviations",
+    "page": "15–16",
+    "question": "Which competitor factors may justify a deviation when relevant?",
+    "answers": [
+      "Age and experience",
+      "Popularity and ranking alone",
+      "Nationality and card value",
+      "Number of spectators"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-438",
+    "topic": "Penalty delivery",
+    "page": "17–18",
+    "question": "What is the primary educational purpose of penalties?",
+    "answers": [
+      "Prevent future infractions while preserving integrity",
+      "Embarrass competitors",
+      "Maximize disqualifications",
+      "Reward the opponent regardless of impact"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-439",
+    "topic": "Penalty delivery",
+    "page": "17–18",
+    "question": "Should a Judge explain the reason for a penalty deviation?",
+    "answers": [
+      "Yes, clearly",
+      "No, deviations are secret",
+      "Only after the tournament",
+      "Only to spectators"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-458",
+    "topic": "Tardiness",
+    "page": "20–21",
+    "question": "A competitor arrives four minutes late without an exception. What is the recommended starting penalty?",
+    "answers": ["Warning", "Game Loss", "Match Loss", "Caution"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-459",
+    "topic": "Tardiness",
+    "page": "20–21",
+    "question": "A competitor arrives seven minutes late. What is the recommended starting penalty?",
+    "answers": ["Game Loss", "Warning", "Caution", "Disqualification"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-460",
+    "topic": "Tardiness",
+    "page": "20–21",
+    "question": "A competitor arrives eleven minutes late in Swiss. What is the standard outcome?",
+    "answers": [
+      "Match Loss and dropped from the event",
+      "Warning and continue",
+      "Game Loss only",
+      "Disqualification"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-461",
+    "topic": "Tardiness",
+    "page": "20–21",
+    "question": "When does tardiness normally begin accruing?",
+    "answers": [
+      "At the start of the round",
+      "Five minutes after round start",
+      "Ten minutes after round start",
+      "When the opponent calls a Judge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-462",
+    "topic": "Tardiness",
+    "page": "20–21",
+    "question": "Can a dropped tardy player reenter before the next round is paired?",
+    "answers": [
+      "Yes, if they confirm participation with the Organizer",
+      "No, never",
+      "Yes, without telling staff",
+      "Only after the next round finishes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-463",
+    "topic": "Tardiness",
+    "page": "20–21",
+    "question": "Can a player reenter after the subsequent round has already been paired under the tardiness policy?",
+    "answers": [
+      "No",
+      "Yes, automatically",
+      "Yes, if they won the previous match",
+      "Yes, if they have no other penalties"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-464",
+    "topic": "Unsporting conduct & cheating",
+    "page": "21–23",
+    "question": "What is the recommended starting penalty for minor unsporting conduct?",
+    "answers": ["Warning", "Caution", "Match Loss", "Disqualification"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-465",
+    "topic": "Unsporting conduct & cheating",
+    "page": "21–23",
+    "question": "What is the recommended starting penalty for major unsporting conduct?",
+    "answers": ["Match Loss", "Warning", "Game Loss", "Caution"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-466",
+    "topic": "Unsporting conduct & cheating",
+    "page": "21–23",
+    "question": "What is the recommended starting penalty for severe unsporting conduct?",
+    "answers": ["Disqualification", "Game Loss", "Warning", "Caution"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-467",
+    "topic": "Unsporting conduct & cheating",
+    "page": "21–23",
+    "question": "A player leaves trash in the play area after a match. Which base infraction severity is illustrated?",
+    "answers": [
+      "Minor unsporting conduct",
+      "Major tardiness",
+      "Severe gameplay error",
+      "Cheating"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-468",
+    "topic": "Unsporting conduct & cheating",
+    "page": "21–23",
+    "question": "A player tries to intimidate an opponent into a misplay. Which base infraction severity is illustrated?",
+    "answers": [
+      "Major unsporting conduct",
+      "Minor procedural error",
+      "Minor tardiness",
+      "Minor gameplay error"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-469",
+    "topic": "Unsporting conduct & cheating",
+    "page": "21–23",
+    "question": "A player refuses to sign a match slip as required. Which base infraction severity is illustrated?",
+    "answers": [
+      "Major unsporting conduct",
+      "Minor gameplay error",
+      "Severe tardiness",
+      "No infraction"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-470",
+    "topic": "Unsporting conduct & cheating",
+    "page": "21–23",
+    "question": "A competitor deliberately lies to tournament staff during an investigation. Which example severity applies?",
+    "answers": [
+      "Severe unsporting conduct",
+      "Minor procedural error",
+      "Minor unsporting conduct",
+      "Major tardiness"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-471",
+    "topic": "Unsporting conduct & cheating",
+    "page": "21–23",
+    "question": "A player uses a coin flip to decide a match result. Which base infraction is illustrated?",
+    "answers": [
+      "Severe unsporting conduct",
+      "Minor gameplay error",
+      "Tardiness",
+      "Legal concession"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-472",
+    "topic": "Unsporting conduct & cheating",
+    "page": "21–23",
+    "question": "A player deliberately draws extra cards to gain advantage. What penalty applies for cheating?",
+    "answers": [
+      "Disqualification",
+      "Warning",
+      "Double Prize Card penalty",
+      "Game Loss"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-473",
+    "topic": "Unsporting conduct & cheating",
+    "page": "21–23",
+    "question": "Can cheating be de-escalated as a base infraction?",
+    "answers": [
+      "No",
+      "Yes, if the player apologizes",
+      "Yes, for all first offenses",
+      "Yes, if the opponent wins"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-474",
+    "topic": "Unsporting conduct & cheating",
+    "page": "21–23",
+    "question": "A player unknowingly makes a rules mistake. Does that alone establish cheating?",
+    "answers": [
+      "No, cheating requires knowingly seeking competitive advantage",
+      "Yes, every error is cheating",
+      "Yes, if the player is a Master",
+      "Yes, if the opponent notices"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-475",
+    "topic": "Unsporting conduct & cheating",
+    "page": "21–23",
+    "question": "A player knowingly falsifies a match slip to change results. Which infraction applies?",
+    "answers": [
+      "Cheating",
+      "Minor tardiness",
+      "Minor pace of play",
+      "No infraction"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-476",
+    "topic": "Unsporting conduct & cheating",
+    "page": "21–23",
+    "question": "A VG player uses custom firmware. Which base infraction is listed?",
+    "answers": [
+      "Cheating",
+      "Minor procedural error",
+      "Tardiness",
+      "No infraction"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-477",
+    "topic": "Unsporting conduct & cheating",
+    "page": "21–23",
+    "question": "A GO player manipulates GPS. Which base infraction is listed?",
+    "answers": [
+      "Cheating",
+      "Minor gameplay error",
+      "Minor tardiness",
+      "Deck legality"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-533",
+    "topic": "Prize Card penalties",
+    "page": "10, 13",
+    "question": "In a six-Prize game, A receives a Double Prize Card penalty. B has already taken 0 Prize card(s). What must B do to win?",
+    "answers": [
+      "Must take 4 more Prize card(s)",
+      "Wins immediately",
+      "Must take 1 more Prize card(s)",
+      "Must take 2 more Prize card(s)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-534",
+    "topic": "Prize Card penalties",
+    "page": "10, 13",
+    "question": "In a six-Prize game, A receives a Double Prize Card penalty. B has already taken 1 Prize card(s). What must B do to win?",
+    "answers": [
+      "Must take 3 more Prize card(s)",
+      "Wins immediately",
+      "Must take 1 more Prize card(s)",
+      "Must take 2 more Prize card(s)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-535",
+    "topic": "Prize Card penalties",
+    "page": "10, 13",
+    "question": "In a six-Prize game, A receives a Double Prize Card penalty. B has already taken 2 Prize card(s). What must B do to win?",
+    "answers": [
+      "Must take 2 more Prize card(s)",
+      "Wins immediately",
+      "Must take 1 more Prize card(s)",
+      "Must take 3 more Prize card(s)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-536",
+    "topic": "Prize Card penalties",
+    "page": "10, 13",
+    "question": "In a six-Prize game, A receives a Double Prize Card penalty. B has already taken 3 Prize card(s). What must B do to win?",
+    "answers": [
+      "Must take 1 more Prize card(s)",
+      "Wins immediately",
+      "Must take 2 more Prize card(s)",
+      "Must take 3 more Prize card(s)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-537",
+    "topic": "Prize Card penalties",
+    "page": "10, 13",
+    "question": "In a six-Prize game, A receives a Double Prize Card penalty. B has already taken 4 Prize card(s). What must B do to win?",
+    "answers": [
+      "Wins immediately",
+      "Must take 1 more Prize card(s)",
+      "Must take 2 more Prize card(s)",
+      "Must take 3 more Prize card(s)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-538",
+    "topic": "Prize Card penalties",
+    "page": "10, 13",
+    "question": "In a six-Prize game, A receives a Double Prize Card penalty. B has already taken 5 Prize card(s). What must B do to win?",
+    "answers": [
+      "Wins immediately",
+      "Must take 1 more Prize card(s)",
+      "Must take 2 more Prize card(s)",
+      "Must take 3 more Prize card(s)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-539",
+    "topic": "Prize Card penalties",
+    "page": "10, 13",
+    "question": "In a six-Prize game, A receives a Quadruple Prize Card penalty. B has already taken 0 Prize card(s). What must B do to win?",
+    "answers": [
+      "Must take 2 more Prize card(s)",
+      "Wins immediately",
+      "Must take 1 more Prize card(s)",
+      "Must take 3 more Prize card(s)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-540",
+    "topic": "Prize Card penalties",
+    "page": "10, 13",
+    "question": "In a six-Prize game, A receives a Quadruple Prize Card penalty. B has already taken 1 Prize card(s). What must B do to win?",
+    "answers": [
+      "Must take 1 more Prize card(s)",
+      "Wins immediately",
+      "Must take 2 more Prize card(s)",
+      "Must take 3 more Prize card(s)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-541",
+    "topic": "Prize Card penalties",
+    "page": "10, 13",
+    "question": "In a six-Prize game, A receives a Quadruple Prize Card penalty. B has already taken 2 Prize card(s). What must B do to win?",
+    "answers": [
+      "Wins immediately",
+      "Must take 1 more Prize card(s)",
+      "Must take 2 more Prize card(s)",
+      "Must take 3 more Prize card(s)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-542",
+    "topic": "Prize Card penalties",
+    "page": "10, 13",
+    "question": "In a six-Prize game, A receives a Quadruple Prize Card penalty. B has already taken 3 Prize card(s). What must B do to win?",
+    "answers": [
+      "Wins immediately",
+      "Must take 1 more Prize card(s)",
+      "Must take 2 more Prize card(s)",
+      "Must take 3 more Prize card(s)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-543",
+    "topic": "Prize Card penalties",
+    "page": "10, 13",
+    "question": "In a six-Prize game, A receives a Quadruple Prize Card penalty. B has already taken 4 Prize card(s). What must B do to win?",
+    "answers": [
+      "Wins immediately",
+      "Must take 1 more Prize card(s)",
+      "Must take 2 more Prize card(s)",
+      "Must take 3 more Prize card(s)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-544",
+    "topic": "Prize Card penalties",
+    "page": "10, 13",
+    "question": "In a six-Prize game, A receives a Quadruple Prize Card penalty. B has already taken 5 Prize card(s). What must B do to win?",
+    "answers": [
+      "Wins immediately",
+      "Must take 1 more Prize card(s)",
+      "Must take 2 more Prize card(s)",
+      "Must take 3 more Prize card(s)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-545",
+    "topic": "Penalty timing",
+    "page": "12",
+    "question": "When does a Swiss match end for penalty timing?",
+    "answers": [
+      "When both competitors sign the match slip",
+      "When time is called",
+      "When the first game ends",
+      "When the next round starts"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-546",
+    "topic": "Penalty timing",
+    "page": "12",
+    "question": "When does a double-elimination match end for penalty timing?",
+    "answers": [
+      "When a Judge reports and records the result",
+      "When a player verbally announces victory",
+      "When time is called",
+      "When the bracket is first published"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-547",
+    "topic": "Penalty timing",
+    "page": "12",
+    "question": "When should a Caution be applied?",
+    "answers": [
+      "Immediately once determined",
+      "At the end of the round",
+      "Only after the event",
+      "At the next match"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-548",
+    "topic": "Penalty timing",
+    "page": "12",
+    "question": "When should a Warning be applied?",
+    "answers": [
+      "Immediately once determined",
+      "At the next round",
+      "Only after reporting it online",
+      "At the end of the tournament"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-549",
+    "topic": "Penalty timing",
+    "page": "12",
+    "question": "Who may exceptionally override usual penalty timing when tournament integrity is at risk?",
+    "answers": [
+      "TPCi",
+      "Any spectator",
+      "Either competitor",
+      "The venue owner"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-550",
+    "topic": "Penalty timing",
+    "page": "13",
+    "question": "Both players receive Game Losses in a single-game match. How is the result recorded?",
+    "answers": [
+      "No winner",
+      "A tie",
+      "A win for the higher seed",
+      "A win for the first player"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-551",
+    "topic": "Penalty timing",
+    "page": "13",
+    "question": "A Game Loss is issued just after a game ends, before the next game starts or results are finalized. Where does it apply?",
+    "answers": [
+      "The game just completed",
+      "The next game",
+      "The next tournament",
+      "Neither game"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-552",
+    "topic": "Penalty timing",
+    "page": "13",
+    "question": "A Game Loss is issued between rounds. Where does it apply?",
+    "answers": [
+      "The next game",
+      "The previous completed game",
+      "Every game in the next match",
+      "The first game of the tournament"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-553",
+    "topic": "Penalty timing",
+    "page": "13",
+    "question": "A Match Loss is issued just after a match ends but before results are finalized. Where does it apply?",
+    "answers": [
+      "The match just completed",
+      "The next match",
+      "The previous round only",
+      "It cannot be applied"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-554",
+    "topic": "Penalty timing",
+    "page": "13",
+    "question": "A Match Loss is issued between rounds after results are finalized. Where does it apply?",
+    "answers": [
+      "The next match",
+      "The match already finalized",
+      "All remaining matches",
+      "The first match of the day"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-555",
+    "topic": "Penalty timing",
+    "page": "13",
+    "question": "A Game Loss ends the last required game of a match. What happens?",
+    "answers": [
+      "The match is complete",
+      "An extra game must be played",
+      "The match is a tie automatically",
+      "The penalty is postponed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-556",
+    "topic": "Penalty timing",
+    "page": "13",
+    "question": "In GO, coincidental penalties leave no winner and sufficient time remains. What may the Head Judge use?",
+    "answers": [
+      "A best-of-one tiebreaker game",
+      "A coin flip",
+      "A best-of-five series",
+      "An automatic draw"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-557",
+    "topic": "Penalty timing",
+    "page": "13",
+    "question": "What minimum time before the next round is required for the GO coincidental-penalty tiebreaker?",
+    "answers": ["10 minutes", "5 minutes", "15 minutes", "20 minutes"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-558",
+    "topic": "Disqualification",
+    "page": "14",
+    "question": "A competitor is disqualified between Swiss matches. When is the disqualification applied?",
+    "answers": [
+      "Immediately",
+      "After the next match",
+      "At the end of Swiss",
+      "Only after top cut"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-559",
+    "topic": "Disqualification",
+    "page": "14",
+    "question": "A competitor is disqualified during a single-elimination match. What additional penalty applies?",
+    "answers": [
+      "Match Loss for the current round",
+      "Game Loss for the next round",
+      "Warning for the previous round",
+      "No match penalty"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-560",
+    "topic": "Disqualification",
+    "page": "14",
+    "question": "A player is disqualified between single-elimination rounds. Who advances if eligible?",
+    "answers": [
+      "The opponent from the most recent match",
+      "The highest-ranked spectator",
+      "A randomly selected player",
+      "The disqualified player"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-561",
+    "topic": "Disqualification",
+    "page": "14",
+    "question": "In double elimination, what losses accompany disqualification?",
+    "answers": [
+      "Game Losses for all games in the most recent applicable match",
+      "One Warning only",
+      "A single Prize Card penalty",
+      "One game loss regardless of match structure"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-562",
+    "topic": "Disqualification",
+    "page": "14",
+    "question": "A double-elimination disqualification gives the player their first match loss. What else applies?",
+    "answers": [
+      "Game Losses for all games in the next upcoming match",
+      "They remain eligible to win the event",
+      "A Caution in the next match",
+      "No additional losses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-563",
+    "topic": "Disqualification",
+    "page": "14",
+    "question": "A double-elimination player is disqualified between matches before the next round is paired. Which round receives the initial Game Losses?",
+    "answers": [
+      "The most recently completed round",
+      "The first round of the tournament",
+      "A randomly selected round",
+      "No round"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-564",
+    "topic": "Disqualification",
+    "page": "14",
+    "question": "A double-elimination player is disqualified between matches after the next round is paired. Where are the Game Losses applied?",
+    "answers": [
+      "The following rounds as applicable",
+      "Only the previous round",
+      "Only the first round",
+      "No round"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-565",
+    "topic": "Penalty delivery & extensions",
+    "page": "17",
+    "question": "How should a Judge deliver a penalty?",
+    "answers": [
+      "Politely and discreetly",
+      "Through a public announcement in every case",
+      "Without explaining the reason",
+      "By asking spectators to vote"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-566",
+    "topic": "Penalty delivery & extensions",
+    "page": "17",
+    "question": "What tournament consequence should a Judge explain when delivering a penalty?",
+    "answers": [
+      "How it affects the competitor's tournament",
+      "The opponent's private penalty history",
+      "All unrelated penalties from earlier events",
+      "The Judge's personal opinion of the competitor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-567",
+    "topic": "Penalty delivery & extensions",
+    "page": "17",
+    "question": "What appeal reminder should accompany penalty delivery?",
+    "answers": [
+      "The competitor may appeal to the Head Judge",
+      "Appeals are never permitted",
+      "Appeals require the opponent's permission",
+      "Only spectators may appeal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-568",
+    "topic": "Penalty delivery & extensions",
+    "page": "17",
+    "question": "How should real penalty cases be discussed publicly for training?",
+    "answers": [
+      "With sufficient anonymization",
+      "With full player names by default",
+      "With private contact details",
+      "Only by posting the entire report"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-569",
+    "topic": "Penalty delivery & extensions",
+    "page": "17",
+    "question": "When may Professors share a specific player's penalty history with other Professors?",
+    "answers": [
+      "When relevant",
+      "Whenever asked by any spectator",
+      "On every public social media post",
+      "Never, even when relevant"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-570",
+    "topic": "Penalty delivery & extensions",
+    "page": "17",
+    "question": "Should a Professor publicly criticize a ruling they did not witness?",
+    "answers": [
+      "They should refrain from doing so",
+      "Yes, without qualification",
+      "Yes, if the player is famous",
+      "Only if the penalty is a Warning"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-571",
+    "topic": "Penalty delivery & extensions",
+    "page": "17",
+    "question": "When deviating for a beginner's lack of experience, what else should a Judge consider?",
+    "answers": [
+      "Consistency with similar circumstances for other competitors",
+      "Whether the beginner owns expensive cards",
+      "Whether the player is popular",
+      "Whether the opponent agrees to waive all rules"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-572",
+    "topic": "Penalty delivery & extensions",
+    "page": "18",
+    "question": "What is the total time-extension cap at Regional Championships and above?",
+    "answers": ["16 minutes", "10 minutes", "15 minutes", "20 minutes"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-573",
+    "topic": "Penalty delivery & extensions",
+    "page": "18",
+    "question": "Two rulings at a Regional require extensions of 9 and 10 minutes. What is the maximum combined extension?",
+    "answers": ["16 minutes", "19 minutes", "10 minutes", "25 minutes"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-574",
+    "topic": "Penalty delivery & extensions",
+    "page": "18",
+    "question": "Who must be told about a time extension?",
+    "answers": [
+      "Both competitors",
+      "Only the player who called the Judge",
+      "Only the winner",
+      "Only spectators"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-575",
+    "topic": "Penalty delivery & extensions",
+    "page": "18",
+    "question": "When should the Judge record an issued time extension?",
+    "answers": [
+      "Immediately",
+      "After the tournament",
+      "Only if time expires",
+      "At the next event"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-576",
+    "topic": "Penalty delivery & extensions",
+    "page": "18",
+    "question": "What is the recommended starting penalty for a minor procedural error?",
+    "answers": ["Caution", "Warning", "Game Loss", "Disqualification"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-577",
+    "topic": "Penalty delivery & extensions",
+    "page": "18",
+    "question": "What is the recommended starting penalty for a major procedural error?",
+    "answers": ["Warning", "Caution", "Game Loss", "Match Loss"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-578",
+    "topic": "Penalty delivery & extensions",
+    "page": "18",
+    "question": "What is the recommended starting penalty for a severe procedural error?",
+    "answers": ["Game Loss", "Caution", "Warning", "Double Prize Card penalty"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-579",
+    "topic": "Penalty delivery & extensions",
+    "page": "18",
+    "question": "A competitor accidentally enters a staff-only area. Which procedural severity is illustrated?",
+    "answers": ["Minor", "Major", "Severe", "Cheating"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-580",
+    "topic": "Procedural errors",
+    "page": "19",
+    "question": "A player forgets to sign a slip but staff immediately call them back. Which procedural severity is illustrated?",
+    "answers": ["Minor", "Major", "Severe", "Cheating"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-581",
+    "topic": "Procedural errors",
+    "page": "19",
+    "question": "Staff must search for a player who left without signing a slip, delaying the event. Which procedural severity is illustrated?",
+    "answers": ["Major", "Minor", "Severe", "Cheating"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-582",
+    "topic": "Procedural errors",
+    "page": "19",
+    "question": "A missing player who forgot to sign their slip cannot be located before the next round starts. Which procedural severity is illustrated?",
+    "answers": ["Severe", "Minor", "Major", "Cheating"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-583",
+    "topic": "Procedural errors",
+    "page": "19",
+    "question": "A player knowingly damages provided equipment through aggressive behavior. Which procedural severity is illustrated?",
+    "answers": ["Severe", "Minor", "Major", "No infraction"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-584",
+    "topic": "Procedural errors",
+    "page": "19",
+    "question": "A GO player leaves before a Judge finalizes their match results. Which procedural severity is illustrated?",
+    "answers": ["Severe", "Minor", "Major", "No infraction"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-585",
+    "topic": "Procedural errors",
+    "page": "19",
+    "question": "A VG or GO player fails to provide their opponent with a team sheet during team preview. Which procedural severity is illustrated?",
+    "answers": ["Minor", "Major", "Severe", "Cheating"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-586",
+    "topic": "Procedural errors",
+    "page": "19",
+    "question": "A TCG player returns an opponent's open deck list promptly when reminded. Which de-escalation is illustrated?",
+    "answers": ["Caution", "Game Loss", "Match Loss", "Disqualification"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-587",
+    "topic": "Procedural errors",
+    "page": "19",
+    "question": "A player unplugs equipment during a game. Which procedural severity is listed as a starting example?",
+    "answers": ["Major", "Minor", "Severe", "No infraction"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-588",
+    "topic": "Procedural errors",
+    "page": "20",
+    "question": "A disconnected device delays tournament proceedings. Which escalation is illustrated?",
+    "answers": [
+      "Game Loss",
+      "Caution",
+      "Double Prize Card penalty",
+      "No penalty"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-589",
+    "topic": "Procedural errors",
+    "page": "20",
+    "question": "A team name violates the Standards of Conduct or Inclusion Policy. Which escalation category is illustrated?",
+    "answers": [
+      "Severe Unsporting Conduct",
+      "Minor Tardiness",
+      "Minor Gameplay Error",
+      "Minor Deck Legality"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-590",
+    "topic": "TCG deck legality",
+    "page": "27",
+    "question": "What should replace illegal or unidentifiable cards on a submitted deck list to make it legal?",
+    "answers": [
+      "Basic Energy of the competitor's choice",
+      "Any card chosen by the Judge",
+      "Random Pokémon from a booster",
+      "No replacement cards"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-591",
+    "topic": "TCG deck legality",
+    "page": "27",
+    "question": "After correcting an illegal deck list with Basic Energy, what must happen to the physical deck?",
+    "answers": [
+      "It must be updated to match the corrected list",
+      "It stays unchanged",
+      "It is discarded entirely",
+      "The opponent chooses replacement cards"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-592",
+    "topic": "TCG deck legality",
+    "page": "27",
+    "question": "Does ordinary wear automatically establish deliberate marking?",
+    "answers": [
+      "No, patterns and potential advantage must be assessed",
+      "Yes, every scratch proves intent",
+      "Yes, if the deck contains Special Energy",
+      "No markings can ever matter"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-593",
+    "topic": "TCG deck legality",
+    "page": "27",
+    "question": "Extra cards in a deck box are visibly distinct from the main deck. What may staff require?",
+    "answers": [
+      "Removal of those cards for the rest of the tournament",
+      "Adding them to the main deck",
+      "Giving them to the opponent",
+      "Automatic disqualification without review"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-594",
+    "topic": "TCG deck legality",
+    "page": "27",
+    "question": "What is the recommended starting penalty for minor TCG deck legality errors?",
+    "answers": ["Warning", "Caution", "Game Loss", "Disqualification"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-595",
+    "topic": "TCG deck legality",
+    "page": "27",
+    "question": "What is the recommended starting penalty for major TCG deck legality errors?",
+    "answers": ["Game Loss", "Warning", "Caution", "Double Prize Card penalty"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-596",
+    "topic": "TCG deck legality",
+    "page": "27",
+    "question": "What is the recommended starting penalty for severe TCG deck legality errors?",
+    "answers": ["Disqualification", "Game Loss", "Warning", "Caution"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-597",
+    "topic": "TCG deck legality",
+    "page": "28",
+    "question": "All sleeves have ordinary wear, with no advantageous pattern. Which deck legality severity is illustrated?",
+    "answers": ["Minor", "Major", "Severe", "Cheating"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-598",
+    "topic": "TCG deck legality",
+    "page": "28",
+    "question": "A few factory sleeve defects create no significantly advantageous pattern. Which severity is illustrated?",
+    "answers": ["Minor", "Major", "Severe", "Cheating"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-599",
+    "topic": "TCG deck legality",
+    "page": "28",
+    "question": "A deck list omits a collector number, but only one card of that name exists in the stated set. Which severity is illustrated?",
+    "answers": ["Minor", "Major", "Severe", "Cheating"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-600",
+    "topic": "TCG deck legality",
+    "page": "28",
+    "question": "A physical card is an illustration rare of the same card listed as a common variant. Which severity is illustrated?",
+    "answers": ["Minor", "Major", "Severe", "Cheating"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-601",
+    "topic": "TCG deck legality",
+    "page": "28",
+    "question": "Does the same-card rarity variant discrepancy require Basic Energy or a proxy replacement in the example?",
+    "answers": [
+      "No",
+      "Yes, Basic Energy only",
+      "Yes, a proxy only",
+      "Yes, both"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-602",
+    "topic": "TCG deck legality",
+    "page": "28",
+    "question": "A submitted constructed deck list contains 59 cards. Which deck legality severity is illustrated?",
+    "answers": ["Major", "Minor", "Severe", "No infraction"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-603",
+    "topic": "TCG deck legality",
+    "page": "28",
+    "question": "A deck has three Ultra Ball and two Max Elixir, but its list has two Ultra Ball and three Max Elixir. Which severity is illustrated?",
+    "answers": ["Major", "Minor", "Severe", "No infraction"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-604",
+    "topic": "TCG deck legality",
+    "page": "28",
+    "question": "Only Special Energy sleeves are slightly longer than the others. Which deck legality severity is illustrated?",
+    "answers": ["Major", "Minor", "Severe", "No infraction"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-605",
+    "topic": "TCG deck legality",
+    "page": "28",
+    "question": "A damaged card produces a visible identifying mark through its sleeve. Which severity is illustrated?",
+    "answers": ["Major", "Minor", "Severe", "No infraction"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-606",
+    "topic": "TCG deck legality",
+    "page": "28",
+    "question": "What is the central difference between minor and major deck legality errors?",
+    "answers": [
+      "Opportunity to gain an advantage",
+      "The cost of the card",
+      "The language of the deck list alone",
+      "The age division alone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-607",
+    "topic": "TCG deck legality",
+    "page": "29",
+    "question": "Clear evidence shows integral cards were intentionally marked. Which deck legality severity is illustrated?",
+    "answers": ["Severe", "Minor", "Major", "No infraction"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-608",
+    "topic": "TCG deck legality",
+    "page": "29",
+    "question": "A player is repeatedly flagged for marked cards at the same event. Which escalation is illustrated?",
+    "answers": [
+      "Disqualification",
+      "Caution",
+      "Warning only",
+      "No escalation is possible"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-609",
+    "topic": "TCG deck legality",
+    "page": "29",
+    "question": "Investigation of a major deck legality issue reveals clear intent to gain advantage. Which escalation is illustrated?",
+    "answers": [
+      "Disqualification",
+      "Caution",
+      "Warning",
+      "Double Prize Card penalty"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-610",
+    "topic": "TCG deck legality",
+    "page": "29",
+    "question": "Extra cards in matching sleeves were clearly substituted to gain advantage. Which infraction can justify Disqualification?",
+    "answers": [
+      "Cheating",
+      "Tardiness",
+      "Minor procedural error",
+      "Minor pace of play"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-611",
+    "topic": "TCG deck legality",
+    "page": "29",
+    "question": "For VG team checks, what is the source of truth for the Battle Team?",
+    "answers": [
+      "The submitted team list",
+      "The physical console alone",
+      "The opponent's notes",
+      "A player's verbal recollection"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-612",
+    "topic": "TCG deck legality",
+    "page": "29",
+    "question": "What is the starting penalty for a minor VG team-check error?",
+    "answers": ["Warning", "Caution", "Game Loss", "Disqualification"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-613",
+    "topic": "TCG deck legality",
+    "page": "29",
+    "question": "What is the starting penalty for a major VG team-check error?",
+    "answers": ["Game Loss", "Warning", "Caution", "Match Loss"],
+    "correctIndex": 0
+  },
+  {
+    "id": "v4-614",
+    "topic": "TCG deck legality",
+    "page": "29",
+    "question": "What is the starting penalty for a severe VG team-check error?",
+    "answers": ["Disqualification", "Game Loss", "Warning", "Caution"],
+    "correctIndex": 0
+  }
+]

@@ -1,0 +1,1848 @@
+[
+  {
+    "id": "3-178",
+    "topic": "Card legality & sleeves",
+    "page": "5",
+    "question": "Can a card with an autograph added after production be used in sanctioned tournament play?",
+    "answers": [
+      "No",
+      "Yes, if signed by the artist",
+      "Yes, in opaque sleeves",
+      "Yes, if it is a Basic Energy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "3-179",
+    "topic": "Card legality & sleeves",
+    "page": "5",
+    "question": "What makes a card marked?",
+    "answers": [
+      "An aspect lets it be identified without seeing its face",
+      "It has a holographic front",
+      "It has an official League stamp",
+      "It has an old regulation mark"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "3-180",
+    "topic": "Card legality & sleeves",
+    "page": "5",
+    "question": "Which is a legal sleeve characteristic?",
+    "answers": [
+      "A single solid color along all edges",
+      "Artwork extending to every edge",
+      "Mixed sleeve textures",
+      "Clearly reflective surfaces revealing card faces"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "3-181",
+    "topic": "Card legality & sleeves",
+    "page": "5",
+    "question": "Are inner sleeves allowed?",
+    "answers": [
+      "Yes, if all criteria remain met and shuffling is possible",
+      "No, never",
+      "Only at Worlds",
+      "Only for Basic Energy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "3-182",
+    "topic": "Card legality & sleeves",
+    "page": "5",
+    "question": "Are opaque-backed sleeves mandatory?",
+    "answers": [
+      "No, they are strongly recommended",
+      "Yes, always",
+      "Only in Expanded",
+      "Only for Japanese cards"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "3-183",
+    "topic": "Card legality & sleeves",
+    "page": "6",
+    "question": "Who determines legal languages at ordinary non-Championship tournaments and League sessions?",
+    "answers": [
+      "Organizer or League staff",
+      "The opponent",
+      "The Head Judge of Worlds",
+      "The card manufacturer alone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "3-184",
+    "topic": "Card legality & sleeves",
+    "page": "6",
+    "question": "Which language is legal in every listed Championship Series rating zone?",
+    "answers": [
+      "English",
+      "Japanese",
+      "French",
+      "German"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "3-185",
+    "topic": "Card legality & sleeves",
+    "page": "7",
+    "question": "Who may issue a proxy if a card becomes marked through damage during a tournament?",
+    "answers": [
+      "A Judge",
+      "Any competitor",
+      "Any spectator",
+      "A card vendor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "3-186",
+    "topic": "Deck legality & formats",
+    "page": "7",
+    "question": "Can deck checks be performed during the final round?",
+    "answers": [
+      "Yes",
+      "No, only at registration",
+      "No, only during Swiss",
+      "Only after the event"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "3-187",
+    "topic": "Deck legality & formats",
+    "page": "9",
+    "question": "How many Prize cards are used in normal Constructed matches?",
+    "answers": [
+      "Six",
+      "Four",
+      "Three",
+      "Five"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "3-188",
+    "topic": "Deck legality & formats",
+    "page": "13",
+    "question": "How many cards are in a Limited-format deck?",
+    "answers": [
+      "40",
+      "60",
+      "30",
+      "50"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "3-189",
+    "topic": "Deck legality & formats",
+    "page": "13",
+    "question": "How many Prize cards are used in normal Limited-format matches?",
+    "answers": [
+      "Four",
+      "Six",
+      "Three",
+      "Two"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "3-190",
+    "topic": "Gameplay management",
+    "page": "18",
+    "question": "Is insufficient deck randomization a rules violation?",
+    "answers": [
+      "Yes",
+      "No, if unintentional",
+      "Only at Worlds",
+      "Only when a card is damaged"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "3-191",
+    "topic": "Gameplay management",
+    "page": "20",
+    "question": "Who chooses the starting player in game two of a best-of-three match after game one has a loser?",
+    "answers": [
+      "The loser of game one",
+      "The winner of game one",
+      "The Judge",
+      "The winner of a new coin flip"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "3-192",
+    "topic": "Gameplay management",
+    "page": "21",
+    "question": "After how many mulligans by one competitor may the Head Judge initiate judge-enforced progression?",
+    "answers": [
+      "Eight",
+      "Three",
+      "Five",
+      "Ten"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "3-193",
+    "topic": "Gameplay management",
+    "page": "25",
+    "question": "May a competitor use codes to obscure their notes from a Judge?",
+    "answers": [
+      "No",
+      "Yes, if personal",
+      "Yes, if written before play",
+      "Yes, in single elimination"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-253",
+    "topic": "Card legality & sleeves",
+    "page": "5",
+    "question": "A card has a small bend that lets its owner identify it face down. Is it legal?",
+    "answers": [
+      "No, it is marked",
+      "Yes, if the bend is small",
+      "Yes, if it is a Basic Pokémon",
+      "Yes, if listed on the deck list"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-254",
+    "topic": "Card legality & sleeves",
+    "page": "5",
+    "question": "Are official League stamps treated like unauthorized alterations?",
+    "answers": [
+      "No",
+      "Yes, always",
+      "Only in Expanded",
+      "Only in Limited"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-255",
+    "topic": "Card legality & sleeves",
+    "page": "5",
+    "question": "What must all sleeves in a deck have in common?",
+    "answers": [
+      "Color/design, condition, size and texture",
+      "Only color",
+      "Only size",
+      "Only manufacturer"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-256",
+    "topic": "Card legality & sleeves",
+    "page": "5",
+    "question": "Can artwork extend to the very edge of a sleeve?",
+    "answers": [
+      "No, edges must be a solid color",
+      "Yes, if opaque",
+      "Yes, if official",
+      "Yes, if double sleeved"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-257",
+    "topic": "Card legality & sleeves",
+    "page": "5",
+    "question": "Are reflective sleeves legal if they reveal card faces?",
+    "answers": [
+      "No",
+      "Yes, with permission from the opponent",
+      "Yes, in Swiss",
+      "Yes, if official"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-258",
+    "topic": "Card legality & sleeves",
+    "page": "5",
+    "question": "Can a competitor use third-party sleeves with a printed illustration?",
+    "answers": [
+      "No, designs must be officially licensed Pokémon designs or solid color",
+      "Yes, any illustration is acceptable",
+      "Yes, if all sleeves match",
+      "Yes, if the illustration is small"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-259",
+    "topic": "Card legality & sleeves",
+    "page": "5",
+    "question": "What must be true when using over-sleeves?",
+    "answers": [
+      "The sleeve criteria and reasonable shuffling ability are maintained",
+      "Only the outer sleeves match in size",
+      "The opponent must never shuffle the deck",
+      "The deck must have fewer than 60 cards"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-260",
+    "topic": "Card legality & sleeves",
+    "page": "6",
+    "question": "Which set of languages is legal in Europe's Championship Series rating zone?",
+    "answers": [
+      "English, French, German, Italian, Portuguese, Spanish",
+      "English and German only",
+      "All languages worldwide",
+      "English, Japanese and Korean"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-261",
+    "topic": "Card legality & sleeves",
+    "page": "6",
+    "question": "Which additional language is legal at Canadian Championship Series events?",
+    "answers": [
+      "French",
+      "German",
+      "Japanese",
+      "Portuguese"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-262",
+    "topic": "Card legality & sleeves",
+    "page": "6",
+    "question": "Which rating zone permits Russian as well as English?",
+    "answers": [
+      "Russia",
+      "Oceania",
+      "US and Canada",
+      "Latin America"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-263",
+    "topic": "Card legality & sleeves",
+    "page": "6",
+    "question": "Who may make an exceptional language accommodation?",
+    "answers": [
+      "Head Judge or Organizer",
+      "The opponent alone",
+      "Any spectator",
+      "Only the scorekeeper"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-264",
+    "topic": "Card legality & sleeves",
+    "page": "6",
+    "question": "Where are interpretation teams guaranteed?",
+    "answers": [
+      "World Championships",
+      "Every Regional Championship",
+      "Every League session",
+      "Every Special Championship"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-265",
+    "topic": "Proxies & deck checks",
+    "page": "7",
+    "question": "A card becomes marked through accidental damage during a tournament. What is a permitted remedy?",
+    "answers": [
+      "A Judge issues a proxy or the player uses an undamaged copy",
+      "The player prints any substitute",
+      "The player removes the card from the deck",
+      "The player replaces it with any card of the same type"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-266",
+    "topic": "Proxies & deck checks",
+    "page": "7",
+    "question": "What must be kept when a damaged card is proxied?",
+    "answers": [
+      "The original damaged card for reference",
+      "Only a photograph",
+      "Only its sleeve",
+      "Nothing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-267",
+    "topic": "Proxies & deck checks",
+    "page": "7",
+    "question": "How long does a Judge-issued proxy for a damaged card act as that card?",
+    "answers": [
+      "The remainder of the tournament",
+      "Only the current turn",
+      "Only the current game",
+      "All future tournaments"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-268",
+    "topic": "Proxies & deck checks",
+    "page": "7",
+    "question": "May a Judge issue a proxy for a production defect that creates a marked-card situation?",
+    "answers": [
+      "Yes, if the Head Judge determines it is appropriate",
+      "No, regardless of circumstances",
+      "Only if the opponent owns the card",
+      "Only before registration opens"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-269",
+    "topic": "Proxies & deck checks",
+    "page": "7",
+    "question": "Can a player bring homemade proxies because genuine copies are expensive?",
+    "answers": [
+      "No",
+      "Yes, with a deck list",
+      "Yes, if identical in color",
+      "Yes, at Championship Series events"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-270",
+    "topic": "Proxies & deck checks",
+    "page": "7",
+    "question": "What percentage of decks is expected to be checked at Championship Series events?",
+    "answers": [
+      "At least 10%",
+      "At least 2%",
+      "Exactly 50%",
+      "Exactly 100%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-271",
+    "topic": "Proxies & deck checks",
+    "page": "7",
+    "question": "What is the purpose of a registered deck list?",
+    "answers": [
+      "To verify the exact deck contents and prevent changes",
+      "To record game results",
+      "To indicate preferred opponents",
+      "To determine seating"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-272",
+    "topic": "Proxies & deck checks",
+    "page": "8",
+    "question": "Should a player reorder a deck for a deck check without instruction?",
+    "answers": [
+      "No, await staff direction",
+      "Yes, always",
+      "Yes, by HP",
+      "Yes, by rarity"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-273",
+    "topic": "Proxies & deck checks",
+    "page": "8",
+    "question": "What must staff compare during a deck check?",
+    "answers": [
+      "Actual deck contents against the registered list",
+      "Only deck size",
+      "Only Pokémon names",
+      "Only Basic Energy count"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-274",
+    "topic": "Proxies & deck checks",
+    "page": "8",
+    "question": "When are open deck lists announced for applicable events?",
+    "answers": [
+      "At registration",
+      "After the final round",
+      "Only after the first game",
+      "Only when a Judge is called"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-275",
+    "topic": "Proxies & deck checks",
+    "page": "8",
+    "question": "When must deck list preview be completed?",
+    "answers": [
+      "Within the three-minute first-game setup",
+      "Within ten minutes",
+      "Before the tournament starts",
+      "After drawing opening hands"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-276",
+    "topic": "Proxies & deck checks",
+    "page": "8",
+    "question": "May a player take notes while previewing the opponent's deck list?",
+    "answers": [
+      "No",
+      "Yes, without restriction",
+      "Only on a blank sheet",
+      "Only card names"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-277",
+    "topic": "Proxies & deck checks",
+    "page": "8",
+    "question": "When must deck lists be exchanged relative to choosing who goes first?",
+    "answers": [
+      "Before the choice is made",
+      "After opening hands are drawn",
+      "After the first turn",
+      "Between games two and three"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-278",
+    "topic": "Proxies & deck checks",
+    "page": "8",
+    "question": "When must exchanged deck lists be put away?",
+    "answers": [
+      "Before either player draws an opening hand",
+      "After the first attack",
+      "After game one",
+      "When time is called"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-279",
+    "topic": "Proxies & deck checks",
+    "page": "8",
+    "question": "What should a player do if they do not recognize a card on the opponent's preview list?",
+    "answers": [
+      "Call a Judge immediately",
+      "Look it up on their phone",
+      "Ask a spectator",
+      "Wait until the match ends"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-280",
+    "topic": "Constructed formats",
+    "page": "8–9",
+    "question": "Can a Constructed deck have 61 cards?",
+    "answers": [
+      "No, exactly 60 are required",
+      "Yes, with permission",
+      "Yes, if the extra card is Basic Energy",
+      "Yes, in Expanded"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-281",
+    "topic": "Constructed formats",
+    "page": "8–9",
+    "question": "Which card category is exempt from the ordinary four-copy limit?",
+    "answers": [
+      "Basic Energy",
+      "Special Energy",
+      "Supporter",
+      "Stadium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-282",
+    "topic": "Constructed formats",
+    "page": "8–9",
+    "question": "Which regulation marks are listed as Standard-legal in the September 2026 handbook?",
+    "answers": [
+      "H, I and J",
+      "G, H and I",
+      "D, E and F",
+      "F, G and H"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-283",
+    "topic": "Constructed formats",
+    "page": "8–9",
+    "question": "Is regulation mark G listed as Expanded-legal but not Standard-legal in that handbook?",
+    "answers": [
+      "Yes",
+      "No, it is Standard only",
+      "No, it is banned in both",
+      "No, it is legal in neither"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-284",
+    "topic": "Constructed formats",
+    "page": "11–12",
+    "question": "When do newly released expansion cards normally become tournament legal?",
+    "answers": [
+      "The second Friday after US market release",
+      "On release day",
+      "The first Monday after release",
+      "One month after release"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-285",
+    "topic": "Constructed formats",
+    "page": "11–12",
+    "question": "What makes an older reprint playable in Standard or Expanded?",
+    "answers": [
+      "Identical name and functionally identical text to a legal version",
+      "Identical artwork",
+      "Identical HP only",
+      "Identical rarity"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-286",
+    "topic": "Constructed formats",
+    "page": "11–12",
+    "question": "A new print is functionally identical to a currently legal card. When can it be played?",
+    "answers": [
+      "Immediately upon release",
+      "Only after the next rotation",
+      "After 30 days",
+      "After the second Friday without exception"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-287",
+    "topic": "Constructed formats",
+    "page": "11–12",
+    "question": "Are placing damage counters and dealing damage functionally interchangeable for reprint legality?",
+    "answers": [
+      "No",
+      "Yes, always",
+      "Yes, if numerical totals match",
+      "Yes, for Energy cards"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-288",
+    "topic": "Constructed formats",
+    "page": "11–12",
+    "question": "What wording applies to an older Unlimited Trainer with the same name but different effects?",
+    "answers": [
+      "The most recent version's wording",
+      "The printed older wording",
+      "Whichever wording benefits the player",
+      "The opponent chooses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-289",
+    "topic": "Constructed formats",
+    "page": "11–12",
+    "question": "Are there any banned cards in Unlimited according to this handbook?",
+    "answers": [
+      "No",
+      "All Pokémon-EX",
+      "All ACE SPEC cards",
+      "All Trainer cards before Black & White"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-290",
+    "topic": "Limited formats",
+    "page": "13",
+    "question": "A Limited deck includes five copies of a Pokémon with no special restriction. Is that allowed?",
+    "answers": [
+      "Yes",
+      "No, four-copy limit applies",
+      "Only if it is a Basic Pokémon",
+      "Only in Constructed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-291",
+    "topic": "Limited formats",
+    "page": "13",
+    "question": "What may a Sealed player use to build a deck?",
+    "answers": [
+      "Cards from their supplied product plus Basic Energy supplied by the Organizer",
+      "Any cards from their collection",
+      "Cards from another player's product",
+      "Only cards from booster packs, never Build & Battle decks"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-292",
+    "topic": "Limited formats",
+    "page": "13",
+    "question": "How much deck-building time is provided in Sealed?",
+    "answers": [
+      "30 minutes",
+      "20 minutes",
+      "15 minutes",
+      "45 minutes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-293",
+    "topic": "Limited formats",
+    "page": "13",
+    "question": "What is the recommended number of boosters per Booster Draft player?",
+    "answers": [
+      "Four to six",
+      "One to two",
+      "Eight to ten",
+      "Exactly three"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-294",
+    "topic": "Limited formats",
+    "page": "13",
+    "question": "How large should a Booster Draft group be at most?",
+    "answers": [
+      "Eight players",
+      "Four players",
+      "Ten players",
+      "Sixteen players"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-295",
+    "topic": "Limited formats",
+    "page": "13",
+    "question": "Can a drafted card already placed in a player's stack be returned to the pack?",
+    "answers": [
+      "No",
+      "Yes, before passing",
+      "Yes, if the next player agrees",
+      "Yes, once per pack"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-296",
+    "topic": "Limited formats",
+    "page": "13",
+    "question": "In which direction is the first Booster Draft pack passed?",
+    "answers": [
+      "Left",
+      "Right",
+      "Across the table",
+      "Chosen by each player"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-297",
+    "topic": "Limited formats",
+    "page": "14",
+    "question": "How does passing direction change with each new draft pack?",
+    "answers": [
+      "Alternates left and right",
+      "Always left",
+      "Always right",
+      "Randomly chosen by each player"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-298",
+    "topic": "Limited formats",
+    "page": "14",
+    "question": "How long is deck construction in Booster Draft?",
+    "answers": [
+      "30 minutes",
+      "20 minutes",
+      "10 minutes",
+      "45 minutes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-299",
+    "topic": "Limited formats",
+    "page": "14",
+    "question": "How many competitors are in a Build & Battle Draft group?",
+    "answers": [
+      "Four",
+      "Eight",
+      "Six",
+      "Two"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-300",
+    "topic": "Limited formats",
+    "page": "14",
+    "question": "How long is deck construction in Build & Battle Draft?",
+    "answers": [
+      "20 minutes",
+      "30 minutes",
+      "15 minutes",
+      "45 minutes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-301",
+    "topic": "Limited formats",
+    "page": "14",
+    "question": "What may a Build & Battle Draft player use for their finished deck?",
+    "answers": [
+      "Cards in their box and Organizer-provided Basic Energy",
+      "Only drafted Pokémon",
+      "Any cards they own",
+      "Only the original prebuilt deck"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-302",
+    "topic": "Limited formats",
+    "page": "14",
+    "question": "How much time is allowed to review selected cards after each Build & Battle Draft booster is exhausted?",
+    "answers": [
+      "One minute",
+      "Five minutes",
+      "Ten seconds",
+      "Three minutes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-303",
+    "topic": "Play area & randomizers",
+    "page": "15–16",
+    "question": "May a good luck charm be kept in the play space?",
+    "answers": [
+      "Yes, if it does not hinder the match and the space stays neat",
+      "No, never",
+      "Only if the opponent has one",
+      "Only if it is a Pokémon card"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-304",
+    "topic": "Play area & randomizers",
+    "page": "15–16",
+    "question": "When is a card from hand considered played in the play area?",
+    "answers": [
+      "When the competitor physically releases it",
+      "When the competitor first touches it",
+      "When the opponent approves",
+      "When the turn ends"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-305",
+    "topic": "Play area & randomizers",
+    "page": "15–16",
+    "question": "How many discard piles may each competitor have?",
+    "answers": [
+      "One",
+      "Two",
+      "Three",
+      "Any number"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-306",
+    "topic": "Play area & randomizers",
+    "page": "15–16",
+    "question": "Where should the Lost Zone be positioned?",
+    "answers": [
+      "Directly above the Prize cards",
+      "Inside the discard pile",
+      "Under the Active Pokémon",
+      "Next to the opponent's deck"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-307",
+    "topic": "Play area & randomizers",
+    "page": "15–16",
+    "question": "Where should a Stadium be placed?",
+    "answers": [
+      "Between the two Active Pokémon",
+      "In the player's hand",
+      "Under the Bench",
+      "On top of the deck"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-308",
+    "topic": "Play area & randomizers",
+    "page": "15–16",
+    "question": "How should attached Energy be arranged?",
+    "answers": [
+      "Aligned and individually visible",
+      "Entirely hidden beneath the Pokémon",
+      "Mixed with the discard pile",
+      "In a separate face-down pile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-309",
+    "topic": "Play area & randomizers",
+    "page": "15–16",
+    "question": "Where should Prize cards be relative to the deck and discard pile?",
+    "answers": [
+      "On the opposite side of the play space",
+      "Directly on top of the deck",
+      "Under the discard pile",
+      "Next to the opponent's hand"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-310",
+    "topic": "Play area & randomizers",
+    "page": "15–16",
+    "question": "Can a competitor use their opponent's legal randomizer?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only after a warning",
+      "Only during setup"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-311",
+    "topic": "Play area & randomizers",
+    "page": "15–16",
+    "question": "From what height should a coin be flipped?",
+    "answers": [
+      "Shoulder height",
+      "Table height",
+      "Floor height",
+      "Above the head"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-312",
+    "topic": "Play area & randomizers",
+    "page": "15–16",
+    "question": "How many full rotations should a flipped coin make at minimum?",
+    "answers": [
+      "Three",
+      "One",
+      "Two",
+      "Five"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-313",
+    "topic": "Play area & randomizers",
+    "page": "15–16",
+    "question": "A coin lands outside the play area. What happens?",
+    "answers": [
+      "The flip is invalid and must be repeated",
+      "Use the result if visible",
+      "The flipper loses the game",
+      "The opponent chooses the result"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-314",
+    "topic": "Play area & randomizers",
+    "page": "15–16",
+    "question": "Can a coin result ruled conclusive by a Judge be redone?",
+    "answers": [
+      "No",
+      "Yes, if both players agree",
+      "Yes, once",
+      "Yes, if it is tails"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-315",
+    "topic": "Play area & randomizers",
+    "page": "17",
+    "question": "What material appearance must dice used as randomizers have?",
+    "answers": [
+      "Transparent or translucent",
+      "Opaque only",
+      "Metallic only",
+      "Any appearance without restriction"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-316",
+    "topic": "Play area & randomizers",
+    "page": "17",
+    "question": "What shape must a six-sided randomizer die have?",
+    "answers": [
+      "A cube with equal face areas",
+      "Any six-faced shape",
+      "A rectangular prism",
+      "A pyramid"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-317",
+    "topic": "Play area & randomizers",
+    "page": "17",
+    "question": "What should opposite faces of a legal randomizer die total?",
+    "answers": [
+      "Seven",
+      "Six",
+      "Eight",
+      "Ten"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-318",
+    "topic": "Play area & randomizers",
+    "page": "17",
+    "question": "Which die results represent heads?",
+    "answers": [
+      "2, 4, 6",
+      "1, 3, 5",
+      "1, 2, 3",
+      "4, 5, 6"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-319",
+    "topic": "Play area & randomizers",
+    "page": "17",
+    "question": "Which die results represent tails?",
+    "answers": [
+      "1, 3, 5",
+      "2, 4, 6",
+      "1, 2, 3",
+      "4, 5, 6"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-320",
+    "topic": "Play area & randomizers",
+    "page": "17",
+    "question": "Which face may be replaced by a custom precision etching?",
+    "answers": [
+      "1 or 6, subject to the stated conditions",
+      "Any three faces",
+      "Only 3",
+      "All six faces"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-321",
+    "topic": "Shuffling",
+    "page": "17–18",
+    "question": "In whose presence must a competitor randomize their deck?",
+    "answers": [
+      "Their opponent's",
+      "Only the Organizer's",
+      "No one's",
+      "A spectator's"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-322",
+    "topic": "Shuffling",
+    "page": "17–18",
+    "question": "After shuffling, what must the deck owner offer their opponent?",
+    "answers": [
+      "The opportunity to cut once",
+      "The opportunity to inspect all cards",
+      "The opportunity to draw a card",
+      "The opportunity to rearrange the deck deliberately"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-323",
+    "topic": "Shuffling",
+    "page": "17–18",
+    "question": "What counts as cutting rather than shuffling?",
+    "answers": [
+      "Splitting into two stacks and placing the top portion underneath",
+      "Splitting into three stacks",
+      "Sorting by card type",
+      "Reversing the deck order"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-324",
+    "topic": "Shuffling",
+    "page": "17–18",
+    "question": "If the opponent shuffles the deck, what may its owner do afterward?",
+    "answers": [
+      "Cut it once",
+      "Shuffle repeatedly until satisfied",
+      "Look through it",
+      "Draw a replacement hand"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-325",
+    "topic": "Shuffling",
+    "page": "17–18",
+    "question": "A player believes a shuffled deck is insufficiently randomized. What should happen?",
+    "answers": [
+      "Call a Judge to shuffle it",
+      "Accept it without question",
+      "Let a spectator shuffle",
+      "Arrange it by card type"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-326",
+    "topic": "Shuffling",
+    "page": "17–18",
+    "question": "May either player cut the deck after a Judge shuffles it?",
+    "answers": [
+      "No",
+      "Yes, the owner only",
+      "Yes, the opponent only",
+      "Yes, both players"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-327",
+    "topic": "Information & communication",
+    "page": "18–19",
+    "question": "Is the number of cards in an opponent's hand public information?",
+    "answers": [
+      "Yes",
+      "No, it is private",
+      "It is inferred only",
+      "Only during Pokémon Checkup"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-328",
+    "topic": "Information & communication",
+    "page": "18–19",
+    "question": "Is the identity of an unrevealed card in hand public information?",
+    "answers": [
+      "No, it is private",
+      "Yes",
+      "It is always inferred",
+      "Only in Swiss"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-329",
+    "topic": "Information & communication",
+    "page": "18–19",
+    "question": "What type of information is the number of remaining Prize cards?",
+    "answers": [
+      "Public",
+      "Private",
+      "Inferred",
+      "Confidential staff information"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-330",
+    "topic": "Information & communication",
+    "page": "18–19",
+    "question": "What type of information is the current content of a player's deck?",
+    "answers": [
+      "Private",
+      "Public",
+      "Inferred",
+      "Always open information"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-331",
+    "topic": "Information & communication",
+    "page": "18–19",
+    "question": "What type of information is the usage of a once-per-game VSTAR Power?",
+    "answers": [
+      "Public",
+      "Private",
+      "Inferred",
+      "Not relevant to the game state"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-332",
+    "topic": "Information & communication",
+    "page": "18–19",
+    "question": "What type of information are the game rules and localized text of a revealed card?",
+    "answers": [
+      "Inferred",
+      "Private",
+      "Public in every respect",
+      "Restricted to Judges"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-333",
+    "topic": "Information & communication",
+    "page": "18–19",
+    "question": "Must an opponent provide inferred information?",
+    "answers": [
+      "No, the player has access rights but the opponent need not supply it",
+      "Yes, always",
+      "Only in the first game",
+      "Only when asked twice"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-334",
+    "topic": "Information & communication",
+    "page": "18–19",
+    "question": "What must a player do after noticing incorrect communicated public information?",
+    "answers": [
+      "Call it out as soon as noticed",
+      "Wait until the game ends",
+      "Keep silent if advantageous",
+      "Write it down without telling anyone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-335",
+    "topic": "Information & communication",
+    "page": "18–19",
+    "question": "Can a Judge ask a player about private information?",
+    "answers": [
+      "Yes, the player must answer honestly and completely",
+      "No, never",
+      "Only after the match",
+      "Only with opponent permission"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-336",
+    "topic": "Information & communication",
+    "page": "18–19",
+    "question": "How can a player protect private information while answering a Judge?",
+    "answers": [
+      "Request to answer away from the game",
+      "Refuse to answer",
+      "Give misleading details",
+      "Ask the opponent to leave the event"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-337",
+    "topic": "Match setup & resolution",
+    "page": "19–21",
+    "question": "When does a TCG match begin?",
+    "answers": [
+      "When the allotted match timer starts counting down",
+      "When the first Prize is taken",
+      "When the first deck is shuffled",
+      "When both players sit down"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-338",
+    "topic": "Match setup & resolution",
+    "page": "19–21",
+    "question": "When does a TCG game begin?",
+    "answers": [
+      "When the starting player is determined",
+      "When the first attack resolves",
+      "When the first Prize is taken",
+      "When the first Supporter is played"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-339",
+    "topic": "Match setup & resolution",
+    "page": "19–21",
+    "question": "Who chooses the starting player in Game 1 of single-elimination top cut?",
+    "answers": [
+      "The higher-seeded player",
+      "The lower-seeded player",
+      "Always the coin flip winner",
+      "The Head Judge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-340",
+    "topic": "Match setup & resolution",
+    "page": "19–21",
+    "question": "When does a normal turn begin?",
+    "answers": [
+      "When the active competitor draws their first card",
+      "When a Supporter is played",
+      "During Pokémon Checkup",
+      "When the opponent shuffles"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-341",
+    "topic": "Match setup & resolution",
+    "page": "19–21",
+    "question": "Both players take two mulligans, then A takes three more. How many extra cards may B draw?",
+    "answers": [
+      "Up to three",
+      "Up to five",
+      "Exactly two",
+      "Zero"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-342",
+    "topic": "Match setup & resolution",
+    "page": "19–21",
+    "question": "When must a player announce the number of extra mulligan cards to draw?",
+    "answers": [
+      "Before drawing them",
+      "After seeing them",
+      "At the end of the turn",
+      "After the first attack"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-343",
+    "topic": "Match setup & resolution",
+    "page": "19–21",
+    "question": "Can a player replace their chosen Active with a Basic drawn as a mulligan bonus?",
+    "answers": [
+      "No, it may be placed on the Bench instead",
+      "Yes, freely",
+      "Only if it has more HP",
+      "Only if the opponent agrees"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-344",
+    "topic": "Match setup & resolution",
+    "page": "19–21",
+    "question": "During Judge-enforced progression, how many cards are drawn in addition to the revealed Basic?",
+    "answers": [
+      "Six",
+      "Seven",
+      "Five",
+      "Three"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-345",
+    "topic": "Match setup & resolution",
+    "page": "19–21",
+    "question": "Should Judge-enforced progression receive a time extension?",
+    "answers": [
+      "Yes, for the time taken",
+      "No",
+      "Only if the player loses",
+      "Only if both players took eight mulligans"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-346",
+    "topic": "Match setup & resolution",
+    "page": "19–21",
+    "question": "How long is the additional overtime period after time is called?",
+    "answers": [
+      "15 minutes",
+      "5 minutes",
+      "10 minutes",
+      "30 minutes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-347",
+    "topic": "Match setup & resolution",
+    "page": "19–21",
+    "question": "How many additional turns are allowed in the normal end-of-round process?",
+    "answers": [
+      "Three",
+      "One",
+      "Five",
+      "Six"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-348",
+    "topic": "Match setup & resolution",
+    "page": "19–21",
+    "question": "Time is called during Pokémon Checkup. Which turn is turn 1 of overtime?",
+    "answers": [
+      "The next player's turn",
+      "The turn that just ended",
+      "The following player's second turn",
+      "Neither player receives a turn"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-349",
+    "topic": "Match setup & resolution",
+    "page": "19–21",
+    "question": "Does every player get a new individual 15-minute timer when their overtime turns begin?",
+    "answers": [
+      "No, overtime starts simultaneously when round time reaches zero",
+      "Yes",
+      "Only in best-of-three",
+      "Only after a Judge call"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-350",
+    "topic": "Match setup & resolution",
+    "page": "22–24",
+    "question": "How many Prizes are set up for a tiebreaker game?",
+    "answers": [
+      "Six",
+      "One",
+      "Two",
+      "Four"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-351",
+    "topic": "Match setup & resolution",
+    "page": "22–24",
+    "question": "What wins a tiebreaker game?",
+    "answers": [
+      "A Prize advantage or another normal win condition",
+      "Only taking all six Prizes",
+      "Only winning a coin flip",
+      "Having more cards in hand"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-352",
+    "topic": "Match setup & resolution",
+    "page": "22–24",
+    "question": "Who may initiate the procedure for a genuinely infinite, unbreakable game loop?",
+    "answers": [
+      "Head Judge",
+      "Either competitor independently",
+      "A spectator",
+      "Scorekeeper alone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-353",
+    "topic": "Match setup & resolution",
+    "page": "22–24",
+    "question": "After the Head Judge identifies a qualifying unbreakable loop, how many further turns are played initially?",
+    "answers": [
+      "One additional turn, current turn is turn 0",
+      "Three additional turns",
+      "Five additional turns",
+      "No further turns"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-354",
+    "topic": "Match setup & resolution",
+    "page": "22–24",
+    "question": "If the same unbreakable loop persists in a tiebreaker after the prescribed additional turn, who wins?",
+    "answers": [
+      "The higher Swiss seed",
+      "The lower Swiss seed",
+      "The player with more HP in play",
+      "A randomly selected player"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-355",
+    "topic": "Match setup & resolution",
+    "page": "22–24",
+    "question": "What is the primary tiebreaker for unresolved matches if one player was late?",
+    "answers": [
+      "Tardiness Clause",
+      "Prize count in every format",
+      "Coin flip",
+      "Number of cards in hand"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-356",
+    "topic": "Match setup & resolution",
+    "page": "22–24",
+    "question": "A Swiss best-of-three match ends unresolved in game 2 with A having won game 1. What is the result, absent tardiness?",
+    "answers": [
+      "A wins the match",
+      "Tie",
+      "B wins the match",
+      "Play an extra tiebreaker game"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-357",
+    "topic": "Match setup & resolution",
+    "page": "22–24",
+    "question": "A Swiss best-of-three match ends unresolved in game 3, with one win each. What is the result, absent tardiness?",
+    "answers": [
+      "Tie",
+      "Game 1 winner wins",
+      "Fewer remaining Prizes wins",
+      "Coin flip determines winner"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-358",
+    "topic": "Match setup & resolution",
+    "page": "22–24",
+    "question": "A single-game Swiss match remains unresolved after overtime, absent tardiness. What is the result?",
+    "answers": [
+      "Tie",
+      "Fewer remaining Prizes wins",
+      "Higher seed wins",
+      "Both receive a Game Loss"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-359",
+    "topic": "Match setup & resolution",
+    "page": "22–24",
+    "question": "A single-game elimination match remains unresolved after overtime; A has two Prizes left and B has four. No tardiness applies. Who wins?",
+    "answers": [
+      "A",
+      "B",
+      "Both",
+      "Neither; record a tie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-360",
+    "topic": "Tempo & notes",
+    "page": "24–25",
+    "question": "What is the suggested reasonable time for performing the actions of an attack?",
+    "answers": [
+      "15 seconds",
+      "45 seconds",
+      "5 seconds",
+      "Three minutes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-361",
+    "topic": "Tempo & notes",
+    "page": "24–25",
+    "question": "Can a player deliberately use every second of each suggested action duration to stall?",
+    "answers": [
+      "No, this may lead to stalling penalties",
+      "Yes, the guideline guarantees this right",
+      "Only in the last round",
+      "Only if ahead"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-362",
+    "topic": "Tempo & notes",
+    "page": "24–25",
+    "question": "What condition must a note sheet meet at the start of a match?",
+    "answers": [
+      "Completely free of text",
+      "May contain notes from earlier rounds",
+      "May contain a printed matchup guide",
+      "May contain a deck list"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-363",
+    "topic": "Tempo & notes",
+    "page": "24–25",
+    "question": "May a player consult notes made earlier in the same match?",
+    "answers": [
+      "Yes",
+      "No",
+      "Only after asking a Judge",
+      "Only in the first game"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-364",
+    "topic": "Tempo & notes",
+    "page": "24–25",
+    "question": "May a player give written match notes to other competitors during the tournament?",
+    "answers": [
+      "No",
+      "Yes, between rounds",
+      "Yes, after game one",
+      "Yes, if notes are handwritten"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-365",
+    "topic": "Tempo & notes",
+    "page": "24–25",
+    "question": "May a player use a messaging-capable device for note-taking?",
+    "answers": [
+      "No",
+      "Yes, in airplane mode",
+      "Yes, if silent",
+      "Yes, with a blank screen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-366",
+    "topic": "Tempo & notes",
+    "page": "24–25",
+    "question": "Are turn trackers considered prohibited pre-written aids?",
+    "answers": [
+      "No, they are permitted, but misuse may incur penalties",
+      "Yes, always",
+      "Only in Limited",
+      "Only during top cut"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-367",
+    "topic": "Tempo & notes",
+    "page": "24–25",
+    "question": "If a Judge requests a translation of a player's notes, what must the player do?",
+    "answers": [
+      "Provide it",
+      "Refuse on privacy grounds",
+      "Destroy the notes",
+      "Ask their opponent instead"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-368",
+    "topic": "Penalties & reporting",
+    "page": "25–26",
+    "question": "Which resource supersedes the TCG handbook's penalty overview?",
+    "answers": [
+      "Play! Pokémon Penalty Guidelines",
+      "A player's deck list",
+      "Local house rules",
+      "The scorekeeper's preference"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-369",
+    "topic": "Penalties & reporting",
+    "page": "25–26",
+    "question": "Should a Judge publicly comment on penalties they were not involved in?",
+    "answers": [
+      "No",
+      "Yes, if the competitor is famous",
+      "Yes, after the event",
+      "Only online"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-370",
+    "topic": "Penalties & reporting",
+    "page": "25–26",
+    "question": "What must a Judge remind a competitor when delivering a penalty?",
+    "answers": [
+      "They may appeal to the Head Judge",
+      "They cannot appeal",
+      "They must concede",
+      "They must leave immediately"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-513",
+    "topic": "Match setup & resolution",
+    "page": "20",
+    "question": "Player A takes 1 mulligans and Player B takes 3. After setup, how many bonus cards may Player A draw?",
+    "answers": [
+      "Up to 2",
+      "Up to 3",
+      "Up to 5",
+      "None"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-514",
+    "topic": "Match setup & resolution",
+    "page": "20",
+    "question": "Player A takes 4 mulligans and Player B takes 1. After setup, how many bonus cards may Player B draw?",
+    "answers": [
+      "Up to 3",
+      "Up to 4",
+      "Up to 6",
+      "None"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-515",
+    "topic": "Match setup & resolution",
+    "page": "20",
+    "question": "Player A takes 0 mulligans and Player B takes 2. After setup, how many bonus cards may Player A draw?",
+    "answers": [
+      "Up to 2",
+      "Exactly 2",
+      "Up to 3",
+      "None"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-516",
+    "topic": "Match setup & resolution",
+    "page": "20",
+    "question": "Player A takes 5 mulligans and Player B takes 2. After setup, how many bonus cards may Player B draw?",
+    "answers": [
+      "Up to 3",
+      "Up to 5",
+      "Up to 8",
+      "None"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-517",
+    "topic": "Match setup & resolution",
+    "page": "20",
+    "question": "Player A takes 3 mulligans and Player B takes 6. After setup, how many bonus cards may Player A draw?",
+    "answers": [
+      "Up to 3",
+      "Up to 6",
+      "Up to 10",
+      "None"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-518",
+    "topic": "Match setup & resolution",
+    "page": "20",
+    "question": "Player A takes 2 mulligans and Player B takes 7. After setup, how many bonus cards may Player A draw?",
+    "answers": [
+      "Up to 5",
+      "Up to 7",
+      "Up to 10",
+      "None"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-519",
+    "topic": "Match setup & resolution",
+    "page": "20",
+    "question": "Player A takes 6 mulligans and Player B takes 4. After setup, how many bonus cards may Player B draw?",
+    "answers": [
+      "Up to 2",
+      "Up to 6",
+      "Up to 11",
+      "None"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "v3-520",
+    "topic": "Match setup & resolution",
+    "page": "20",
+    "question": "Player A takes 8 mulligans and Player B takes 3. After setup, how many bonus cards may Player B draw?",
+    "answers": [
+      "Up to 5",
+      "Up to 8",
+      "Up to 12",
+      "None"
+    ],
+    "correctIndex": 0
+  }
+]
